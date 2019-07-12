@@ -1,15 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SideNavComponent } from './controls/side-nav/side-nav.component';
-import { NavListComponent } from './controls/nav-list/nav-list.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { FlexLayoutComponent } from './controls/flex-layout/flex-layout.component';
+import { MatSidenavModule, MatIconModule } from '@angular/material';
 
 @NgModule({
-  declarations: [SideNavComponent, NavListComponent, FlexLayoutComponent],
+  declarations: [SideNavComponent],
   imports: [
     CommonModule,
     BrowserAnimationsModule,
@@ -17,7 +16,10 @@ import { FlexLayoutComponent } from './controls/flex-layout/flex-layout.componen
     FathymSharedModule,
     MaterialModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    MatSidenavModule,
+    MatIconModule
+
   ]
 })
 export class LcuHamburgerMenuSideNavModule { }
