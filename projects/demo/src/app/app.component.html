@@ -1,11 +1,3 @@
-<div [className]="SelectedTheme" style="height: 100%">
-    <lcu-side-nav
-        [nav-links]="Links" 
-        logo-class="primary-logo"
-        logo-alt="Fathym Logo">
-        <div class="router-container " style="height: 90%;">
-            <router-outlet (activate)="OnActivate($event)"></router-outlet>
-        </div>
-    </lcu-side-nav>
-</div>
+    <lcu-side-nav [MenuItems]="Items"></lcu-side-nav>
+
 

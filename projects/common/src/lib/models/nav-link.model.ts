@@ -16,17 +16,23 @@ export class NavLinkModel {
     /**
      * Menu parameter
      */
-    public Param?: object;
+    public Param?: string;
 
     /**
      * Navigation URL
      */
-    public RouterURL: string;
+    public Url: string;
 
-    constructor(label: string, rounterURL: string, icon?: string, param?: object) {
+    /**
+     * String value true or false, whether or not to grey out the button
+     */
+    public Disabled: string;
+
+    constructor(label: string, Url: string, icon?: string, param?: string, disabled?: string) {
         this.Icon = icon;
         this.Label = label;
-        this.RouterURL = rounterURL;
+        this.Url = Url;
         this.Param = param;
+        this.Disabled = disabled;
     }
 }
