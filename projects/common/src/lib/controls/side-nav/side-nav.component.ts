@@ -20,6 +20,8 @@ export class SideNavComponent {
     );
 
   protected _navLinks: Array<NavLinkModel>;
+  
+  public SideOpen: boolean;
 
   @Input() MenuItems: Array<NavLinkModel>;
 
@@ -27,32 +29,9 @@ export class SideNavComponent {
 
 
 
-  /**
-   * Input property for logo
-   */
-  // tslint:disable-next-line:no-input-rename
-  // @Input('logo-url')
-  // public LogoURL: string;
-
-  // tslint:disable-next-line:no-input-rename
-  // @Input('logo-class')
-  // public LogoClass: string;
-
-  /**
-   * Input property for logo alt text
-   */
-  // tslint:disable-next-line:no-input-rename
-  // @Input('logo-alt')
-  // public LogoAlt: string;
-
-  /**
-   * Input property for navigation links
-   */
-  // tslint:disable-next-line:no-input-rename
-  // @Input('nav-links')
-  // public NavLinks: Array<NavLinkModel>;
-
-  constructor(protected breakpointObserver: BreakpointObserver) {}
+  constructor(protected breakpointObserver: BreakpointObserver) {
+    this.SideOpen = false;
+  }
 
   public ngOnInit(): void {
   }
@@ -61,8 +40,10 @@ export class SideNavComponent {
   public toggleDrawer() {
     if (this.sidenav.opened) {
       this.sidenav.close();
+      this.SideOpen=false
     } else {
       this.sidenav.open();
+      this.SideOpen = true;
     }
   }
 
