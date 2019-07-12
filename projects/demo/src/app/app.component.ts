@@ -14,31 +14,33 @@ import { NavLinkModel } from 'projects/common/src/lib/models/nav-link.model';
 
 export class AppComponent implements OnInit {
 
-  public BackgroundImage: string;
+  public Items: Array<NavLinkModel> = new Array<NavLinkModel>();
 
-  public DarkTheme: boolean;
 
-  public Links: Array<NavLinkModel>;
+  // public BackgroundImage: string;
 
-  public SelectedTheme: string;
+  // public DarkTheme: boolean;
 
-  public title = 'demo';
+  // public Links: Array<NavLinkModel>;
 
-  protected themesSubscriptions: Subscription;
+  // public SelectedTheme: string;
+
+  // public title = 'demo';
+
+  // protected themesSubscriptions: Subscription;
 
   constructor(
     protected router: Router,
     protected activatedRoute: ActivatedRoute,
-    
     protected overlayContainer: OverlayContainer) {
 
-    this.BackgroundImage = './assets/images/bg_image.jpg';
+    // this.BackgroundImage = './assets/images/bg_image.jpg';
   }
 
   public ngOnInit(): void {
-    this.Links = NavigationConstants.MENU_ITEMS;
+    this.Items = NavigationConstants.MENU_ITEMS;
 
-    this.resetTheme();
+    // this.resetTheme();
   }
 
    /**
@@ -56,22 +58,22 @@ export class AppComponent implements OnInit {
   /**
    * Set default theme
    */
-  protected resetTheme(): void {
-    this.changeTheme('arctic-theme');
-  }
+  // protected resetTheme(): void {
+  //   this.changeTheme('arctic-theme');
+  // }
 
   /**
    * Toggle themes
    *
    * @param val theme to change to
    */
-  protected changeTheme(val: string): void {
-    this.SelectedTheme = val;
+//   protected changeTheme(val: string): void {
+//     this.SelectedTheme = val;
 
-    const element: HTMLElement = this.overlayContainer.getContainerElement();
+//     const element: HTMLElement = this.overlayContainer.getContainerElement();
 
 
-    // update favicon when theme changes
- }
+//     // update favicon when theme changes
+//  }
 
 }

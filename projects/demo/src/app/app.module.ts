@@ -7,16 +7,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { FathymSharedModule, MaterialModule, FaviconsService, BrowserFavicons, BROWSER_FAVICONS_CONFIG } from '@lcu-ide/common';
-import { FlexLayoutComponent } from '../../../common/src/lib/controls/flex-layout/flex-layout.component';
-import { NavListComponent } from '../../../common/src/lib/controls/nav-list/nav-list.component';
 import { SideNavComponent } from 'projects/common/src/lib/controls/side-nav/side-nav.component';
+import { MatIconModule, MatSidenavModule } from '@angular/material';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FlexLayoutComponent,
-    SideNavComponent,
-    NavListComponent
+    SideNavComponent
   ],
   imports: [
     BrowserAnimationsModule,
@@ -25,7 +22,9 @@ import { SideNavComponent } from 'projects/common/src/lib/controls/side-nav/side
     FathymSharedModule,
     MaterialModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    MatIconModule,
+    MatSidenavModule,
   ],
   providers: [
   {

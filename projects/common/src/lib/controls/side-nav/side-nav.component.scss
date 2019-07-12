@@ -1,24 +1,29 @@
-// @import '../../../../../../node_modules/@angular/material/theming';
-
-// @mixin side-nav-component-theme($theme) {
-//   $primary: map-get($theme, primary);
-//   $accent:  map-get($theme, accent);
-//   $warn:  map-get($theme, warn);
-// }
-
-.sidenav-container {
-  height: 100%;
+.mat-sidenav-container{
+}
+.hamburger-menu {
+  background-color: transparent;
+  border-width:0;
+  outline: none;
+  font-size: 30px;
 }
 
-.sidenav {
-  width: 200px;
-  box-shadow: 3px 0 6px rgba($color: #000000, $alpha: .24);
+.mat-sidenav-content{
+  height: 100vh;
+  width:40px;
+  // background-color: red;
 }
-
-.mat-toolbar.mat-primary {
-  position: sticky;
-  top: 0;
-  z-index: 1;
+.side-nav{
+  background-color: transparent;
+  border-right: transparent;
 }
+.button-container{
+  height: 100vh;
+  background-color:transparent;
+  z-index: 10;
+}
+.item-button{
+  width: 100%;
+  background-color: whitesmoke;
 
+}
 
