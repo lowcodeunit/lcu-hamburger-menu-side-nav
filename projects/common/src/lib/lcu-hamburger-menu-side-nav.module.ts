@@ -19,7 +19,6 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
     ReactiveFormsModule,
     MatSidenavModule,
     MatIconModule
-
   ]
 })
 export class LcuHamburgerMenuSideNavModule { }
