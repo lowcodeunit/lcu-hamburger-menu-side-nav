@@ -1,15 +1,18 @@
 <mat-sidenav-container class="mat-sidenav-container">
   <mat-sidenav-content class="mat-sidenav-content">
-      <button class="hamburger-menu" mat-icon-button (click)="toggleDrawer()">
+      <button *ngIf="SideOpen === false"class="hamburger-menu" mat-icon-button (click)="toggleDrawer()">
         <mat-icon [inline]="true">menu</mat-icon>
       </button>
     </mat-sidenav-content>
       <!-- Builds the hamburger menu from the items in the constants.ts file-->
       <mat-sidenav class="side-nav" #sidenav mode="side"  >
-        <div class="button-container" fxLayout="column" fxLayoutAlign="space-evenly" >
-        <button class="item-button"  mat-menu-item  fxLayoutAlign="space-evenly center"  *ngFor= "let item of MenuItems" 
+          <button class="hamburger-menu" mat-icon-button (click)="toggleDrawer()">
+              <mat-icon [inline]="true">menu</mat-icon>
+            </button>
+        <div class="button-container" fxLayout="column" fxLayoutAlign="space-around" >
+        <button class="item-button"  mat-menu-item  fxLayoutAlign="space-around center"  *ngFor= "let item of MenuItems" 
           [disabled]= item.Disabled [routerLink]=[item.Url,item.Param]>
-          <mat-icon *ngIf="item.Icon">{{ item.Icon }}</mat-icon>
+          <!-- <mat-icon *ngIf="item.Icon">{{ item.Icon }}</mat-icon> -->
           <span>{{ item.Label }}</span>
         </button>
       </div>

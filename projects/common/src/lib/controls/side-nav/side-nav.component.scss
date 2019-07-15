@@ -1,29 +1,31 @@
-.mat-sidenav-container{
-}
 .hamburger-menu {
   background-color: transparent;
   border-width:0;
   outline: none;
   font-size: 30px;
 }
+.mat-sidenav-container{
+  width: 150px;
+  background-color:transparent;
+}
 
 .mat-sidenav-content{
   height: 100vh;
+  background-color:transparent;
   width:40px;
-  // background-color: red;
 }
 .side-nav{
+  height: 100vh;
   background-color: transparent;
   border-right: transparent;
 }
 .button-container{
-  height: 100vh;
+  height: 50vh;
   background-color:transparent;
   z-index: 10;
 }
 .item-button{
   width: 100%;
   background-color: whitesmoke;
-
 }
 
