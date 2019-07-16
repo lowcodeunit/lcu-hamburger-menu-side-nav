@@ -82,7 +82,9 @@
                             forms.ReactiveFormsModule,
                             material.MatSidenavModule,
                             material.MatIconModule
-                        ]
+                        ],
+                        exports: [SideNavComponent],
+                        entryComponents: [SideNavComponent]
                     },] }
         ];
         return LcuHamburgerMenuSideNavModule;
