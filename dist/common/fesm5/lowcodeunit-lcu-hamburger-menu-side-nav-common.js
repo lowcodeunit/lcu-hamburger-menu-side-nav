@@ -85,7 +85,9 @@ var LcuHamburgerMenuSideNavModule = /** @class */ (function () {
                         ReactiveFormsModule,
                         MatSidenavModule,
                         MatIconModule
-                    ]
+                    ],
+                    exports: [SideNavComponent],
+                    entryComponents: [SideNavComponent]
                 },] }
     ];
     return LcuHamburgerMenuSideNavModule;
