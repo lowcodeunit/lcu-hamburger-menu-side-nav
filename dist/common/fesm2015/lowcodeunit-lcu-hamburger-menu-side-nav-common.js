@@ -80,7 +80,9 @@ LcuHamburgerMenuSideNavModule.decorators = [
                     ReactiveFormsModule,
                     MatSidenavModule,
                     MatIconModule
-                ]
+                ],
+                exports: [SideNavComponent],
+                entryComponents: [SideNavComponent]
             },] }
 ];
 
