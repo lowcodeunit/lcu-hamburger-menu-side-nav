@@ -11,12 +11,12 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
   declarations: [SideNavComponent],
   imports: [
     CommonModule,
-    BrowserAnimationsModule,
+    // BrowserAnimationsModule,
     FlexLayoutModule,
     FathymSharedModule,
     MaterialModule,
-    FormsModule,
-    ReactiveFormsModule,
+    // FormsModule,
+    // ReactiveFormsModule,
     MatSidenavModule,
     MatIconModule
   ],
