@@ -33,5 +33,11 @@
   border-radius: 1px;
   border-color: black;
   font-size: 20px;
+  color: black;
+  z-index: 5;
 }
 
+
+.item-button:hover{
+  background-color:Grey;
+}
