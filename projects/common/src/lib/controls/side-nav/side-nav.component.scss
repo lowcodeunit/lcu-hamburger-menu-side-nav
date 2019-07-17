@@ -20,18 +20,15 @@
   border-right: transparent;
 }
 .button-container{
-  height: 100vh;
+  height: 75vh;
   background-color:transparent;
   z-index: 10;
   width:210px;
 }
 .item-button{
+  height: 40px;
   width: 100%;
   background-color: white;
-  padding: 9px;
-  margin-bottom: 30px;
-  border-radius: 1px;
-  border-color: black;
   font-size: 20px;
 }
 
