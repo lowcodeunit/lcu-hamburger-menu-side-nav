@@ -9,8 +9,8 @@ import { NavLinkModel } from 'projects/common/src/lib/models/nav-link.model';
 
 export class NavigationConstants{
     public static readonly MENU_ITEMS: Array<NavLinkModel> = [
-        {Label: 'HOME', Url:'/home', Disabled:'false', Icon: 'home',},
-        {Label: 'MY MODAL', Url:'/home', Disabled:'false', Icon: 'public', Param:'modal' },
+        {Label: 'HOME', Url:'/landingPage', Disabled:'false', Icon: 'home',},
+        {Label: 'MY MODAL', Url:'', Disabled:'false', Icon: 'public'},
         {Label: 'MY ITENERARIES', Url:'www', Disabled:'true', Icon: 'map'},
         {Label: 'MY TOP LISTS', Url:'www', Disabled:'true', Icon: 'sort'},
         {Label: 'MY ALBUMS', Url:'www', Disabled:'true', Icon: 'photo_library'},
