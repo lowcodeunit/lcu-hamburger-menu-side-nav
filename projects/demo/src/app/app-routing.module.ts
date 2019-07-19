@@ -3,8 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 
 
 const routes: Routes = [
-  { path: '', redirectTo: 'home', pathMatch: 'full'},
-  // { path: 'map/:Params', component: AmblOnMapComponent},
+  { path: '', redirectTo: 'landingPage', pathMatch: 'full'},
+
 
 ];
 
