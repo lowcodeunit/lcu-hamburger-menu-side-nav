@@ -5,9 +5,10 @@
   font-size: 30px;
 }
 .mat-sidenav-container{
-  width: 100vw;
+  width: 97.5vw;
   //width: 210px;
   background-color:transparent;
+  z-index:20;
 }
 
 .mat-sidenav-content{

@@ -26,7 +26,8 @@ export class SideNavComponent {
   @Input('menu-items') 
   MenuItems: Array<NavLinkModel>;
 
-  @Input('opened-subject') openedSubject: Subject<boolean>;
+  // @Input('opened-subject') 
+  public openedSubject: Subject<boolean>;
 
   @ViewChild('sidenav') public sidenav: MatSidenav;
   // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
@@ -34,9 +35,11 @@ export class SideNavComponent {
 
   constructor(protected breakpointObserver: BreakpointObserver) {
     this.SideOpen = false;
+   this.openedSubject = new Subject<boolean>();
   }
 
   public ngOnInit(): void {
+    
   }
 
   ngAfterContentInit() {
