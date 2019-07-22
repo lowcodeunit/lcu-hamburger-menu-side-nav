@@ -1,6 +1,6 @@
 import { Component, Input, ViewChild } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
-import { Observable } from 'rxjs';
+import { Observable, Subject } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { NavLinkModel } from '../../models/nav-link.model';
 import { MatSidenav } from '@angular/material';
@@ -26,10 +26,7 @@ export class SideNavComponent {
   @Input('menu-items') 
   MenuItems: Array<NavLinkModel>;
 
-  @Input('close-side-nav') 
-  set CloseSideNav(value:boolean){
-    this.CloseDrawer(value);
-  }
+  @Input('opened-subject') openedSubject: Subject<boolean>;
 
   @ViewChild('sidenav') public sidenav: MatSidenav;
   // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
@@ -42,21 +39,15 @@ export class SideNavComponent {
   public ngOnInit(): void {
   }
 
+  ngAfterContentInit() {
+    this.openedSubject.subscribe(
+      keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
+    );
+  }
+
 
   public toggleDrawer() {
-    if (this.sidenav.opened) {
-      this.sidenav.close();
-      this.SideOpen = false
-    } else {
-      this.sidenav.open();
-      this.SideOpen = true;
-    }
+    this.openedSubject.next(!this.sidenav.opened);
   }
-
-  public CloseDrawer(value: boolean){
-    this.SideOpen = value;
-    this.sidenav.close();
-  }
-
 }
 
