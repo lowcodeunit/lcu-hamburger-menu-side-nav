@@ -27,12 +27,15 @@ export class SideNavComponent {
   // @Input('opened-subject') 
   public openedSubject: Subject<boolean>;
 
+  public SideOpen: boolean;
+
   @ViewChild('sidenav') public sidenav: MatSidenav;
   // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
 
 
   constructor(protected breakpointObserver: BreakpointObserver) {
    this.openedSubject = new Subject<boolean>();
+   this.SideOpen = false;
   }
 
   public ngOnInit(): void {
@@ -48,6 +51,15 @@ export class SideNavComponent {
 
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
+    //so the hamburger menu doesnt come all the way across the screen when closing the menu
+    if(this.SideOpen === true){
+    setTimeout(()=>{
+      this.SideOpen = !this.SideOpen;
+    },100);
+  }
+  else{
+    this.SideOpen = !this.SideOpen;
+  }
   }
 
 }

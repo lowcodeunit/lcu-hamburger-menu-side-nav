@@ -5,10 +5,14 @@
   font-size: 30px;
 }
 .mat-sidenav-container{
-  width: 97.5vw;
+  width: 96.5vw;
   //width: 210px;
+  z-index: 3 !important;
   background-color:transparent;
-  z-index:20;
+}
+
+.mat-drawer-inner-container{
+  z-index:10;
 }
 
 .mat-sidenav-content{
