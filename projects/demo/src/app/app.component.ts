@@ -3,6 +3,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 import {OverlayContainer} from '@angular/cdk/overlay';
 import { NavigationConstants } from './utils/constants/navigation.constants';
 import { NavLinkModel } from 'projects/common/src/lib/models/nav-link.model';
+import { Subject } from 'rxjs';
 
 
 @Component({
@@ -15,6 +16,8 @@ export class AppComponent implements OnInit {
 
   public Items: Array<NavLinkModel> = new Array<NavLinkModel>();
 
+  openedSubject = new Subject<boolean>();
+
   constructor(
     protected router: Router,
     protected activatedRoute: ActivatedRoute,
@@ -23,6 +26,10 @@ export class AppComponent implements OnInit {
 
   public ngOnInit(): void {
     this.Items = NavigationConstants.MENU_ITEMS;
+  }
+
+  public toggleSide(){
+    this.openedSubject.next(false);
   }
 
 }
