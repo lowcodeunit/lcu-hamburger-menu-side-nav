@@ -5,18 +5,20 @@
       </button>
     </mat-sidenav-content>
       <!-- Builds the hamburger menu from the items in the constants.ts file-->
-      <mat-sidenav class="side-nav" #sidenav mode="side"  >
+      <mat-sidenav class="side-nav" #sidenav mode="over"  >
+        <div class="mat-drawer-inner-container"  (click)="toggleDrawer()">
           <button class="hamburger-menu" mat-icon-button (click)="toggleDrawer()">
               <mat-icon [inline]="true">menu</mat-icon>
             </button>
             <!--  -->
         <div class="button-container" fxLayout="column" fxLayoutAlign="space-between" >
         <button class="item-button"  mat-menu-item  fxLayoutAlign="space-between center"  *ngFor= "let item of MenuItems" 
-          [disabled]= item.Disabled [routerLink]=[item.Url,item.Param] (click)="toggleDrawer()">
+          [disabled]= item.Disabled [routerLink]=[item.Url,item.Param] >
           <!-- <mat-icon *ngIf="item.Icon">{{ item.Icon }}</mat-icon> -->
           <span>{{ item.Label }}</span>
         </button>
       </div>
+    </div>
       </mat-sidenav>
 </mat-sidenav-container>
 
