@@ -5,7 +5,8 @@
   font-size: 30px;
 }
 .mat-sidenav-container{
-  width: 210px;
+  width: 100vw;
+  //width: 210px;
   background-color:transparent;
 }
 
@@ -16,6 +17,7 @@
 }
 .side-nav{
   height: 100vh;
+  width: 100vw;
   background-color: transparent;
   border-right: transparent;
 }

@@ -49,5 +49,6 @@ export class SideNavComponent {
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
   }
+
 }
 
