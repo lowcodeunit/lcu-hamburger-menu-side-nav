@@ -11,6 +11,7 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SideNavComponent = /** @class */ (function () {
+    // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
     function SideNavComponent(breakpointObserver) {
         this.breakpointObserver = breakpointObserver;
         this.isHandset$ = this.breakpointObserver.observe(Breakpoints.Handset)
@@ -21,6 +22,17 @@ var SideNavComponent = /** @class */ (function () {
         function (result) { return result.matches; })));
         this.SideOpen = false;
     }
+    Object.defineProperty(SideNavComponent.prototype, "CloseSideNav", {
+        set: /**
+         * @param {?} value
+         * @return {?}
+         */
+        function (value) {
+            this.CloseDrawer(value);
+        },
+        enumerable: true,
+        configurable: true
+    });
     /**
      * @return {?}
      */
@@ -45,6 +57,18 @@ var SideNavComponent = /** @class */ (function () {
             this.SideOpen = true;
         }
     };
+    /**
+     * @param {?} value
+     * @return {?}
+     */
+    SideNavComponent.prototype.CloseDrawer = /**
+     * @param {?} value
+     * @return {?}
+     */
+    function (value) {
+        this.SideOpen = value;
+        this.sidenav.close();
+    };
     SideNavComponent.decorators = [
         { type: Component, args: [{
                     selector: 'lcu-side-nav',
@@ -57,7 +81,8 @@ var SideNavComponent = /** @class */ (function () {
         { type: BreakpointObserver }
     ]; };
     SideNavComponent.propDecorators = {
-        MenuItems: [{ type: Input }],
+        MenuItems: [{ type: Input, args: ['menu-items',] }],
+        CloseSideNav: [{ type: Input, args: ['close-side-nav',] }],
         sidenav: [{ type: ViewChild, args: ['sidenav',] }]
     };
     return SideNavComponent;
