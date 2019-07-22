@@ -21,8 +21,6 @@ export class SideNavComponent {
 
   protected _navLinks: Array<NavLinkModel>;
   
-  public SideOpen: boolean;
-
   @Input('menu-items') 
   MenuItems: Array<NavLinkModel>;
 
@@ -34,7 +32,6 @@ export class SideNavComponent {
 
 
   constructor(protected breakpointObserver: BreakpointObserver) {
-    this.SideOpen = false;
    this.openedSubject = new Subject<boolean>();
   }
 
