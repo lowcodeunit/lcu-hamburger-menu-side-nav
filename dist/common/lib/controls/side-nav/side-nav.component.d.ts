@@ -6,7 +6,6 @@ export declare class SideNavComponent {
     protected breakpointObserver: BreakpointObserver;
     isHandset$: Observable<boolean>;
     protected _navLinks: Array<NavLinkModel>;
-    SideOpen: boolean;
     MenuItems: Array<NavLinkModel>;
     openedSubject: Subject<boolean>;
     sidenav: MatSidenav;
