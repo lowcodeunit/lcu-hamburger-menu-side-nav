@@ -19,16 +19,6 @@
          */function (result) { return result.matches; })));
             this.SideOpen = false;
         }
-        Object.defineProperty(SideNavComponent.prototype, "CloseSideNav", {
-            set: /**
-             * @param {?} value
-             * @return {?}
-             */ function (value) {
-                this.CloseDrawer(value);
-            },
-            enumerable: true,
-            configurable: true
-        });
         /**
          * @return {?}
          */
@@ -40,35 +30,29 @@
         /**
          * @return {?}
          */
+        SideNavComponent.prototype.ngAfterContentInit = /**
+         * @return {?}
+         */
+            function () {
+                var _this = this;
+                this.openedSubject.subscribe(( /**
+                 * @param {?} keepOpen
+                 * @return {?}
+                 */function (keepOpen) { return _this.sidenav[keepOpen ? 'open' : 'close'](); }));
+            };
+        /**
+         * @return {?}
+         */
         SideNavComponent.prototype.toggleDrawer = /**
          * @return {?}
          */
             function () {
-                if (this.sidenav.opened) {
-                    this.sidenav.close();
-                    this.SideOpen = false;
-                }
-                else {
-                    this.sidenav.open();
-                    this.SideOpen = true;
-                }
-            };
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        SideNavComponent.prototype.CloseDrawer = /**
-         * @param {?} value
-         * @return {?}
-         */
-            function (value) {
-                this.SideOpen = value;
-                this.sidenav.close();
+                this.openedSubject.next(!this.sidenav.opened);
             };
         SideNavComponent.decorators = [
             { type: core.Component, args: [{
                         selector: 'lcu-side-nav',
-                        template: "<mat-sidenav-container class=\"mat-sidenav-container\">\r\n  <mat-sidenav-content class=\"mat-sidenav-content\">\r\n      <button *ngIf=\"SideOpen === false\"class=\"hamburger-menu\" mat-icon-button (click)=\"toggleDrawer()\">\r\n        <mat-icon [inline]=\"true\">menu</mat-icon>\r\n      </button>\r\n    </mat-sidenav-content>\r\n      <!-- Builds the hamburger menu from the items in the constants.ts file-->\r\n      <mat-sidenav class=\"side-nav\" #sidenav mode=\"side\"  >\r\n          <button class=\"hamburger-menu\" mat-icon-button (click)=\"toggleDrawer()\">\r\n              <mat-icon [inline]=\"true\">menu</mat-icon>\r\n            </button>\r\n            <!--  -->\r\n        <div class=\"button-container\" fxLayout=\"column\" fxLayoutAlign=\"space-between\" >\r\n        <button class=\"item-button\"  mat-menu-item  fxLayoutAlign=\"space-between center\"  *ngFor= \"let item of MenuItems\" \r\n          [disabled]= item.Disabled [routerLink]=[item.Url,item.Param] (click)=\"toggleDrawer()\">\r\n          <!-- <mat-icon *ngIf=\"item.Icon\">{{ item.Icon }}</mat-icon> -->\r\n          <span>{{ item.Label }}</span>\r\n        </button>\r\n      </div>\r\n      </mat-sidenav>\r\n</mat-sidenav-container>\r\n\r\n     ",
+                        template: "<mat-sidenav-container class=\"mat-sidenav-container\">\r\n  <mat-sidenav-content class=\"mat-sidenav-content\">\r\n      <button class=\"hamburger-menu\" mat-icon-button (click)=\"toggleDrawer()\">\r\n        <mat-icon [inline]=\"true\">menu</mat-icon>\r\n      </button>\r\n    </mat-sidenav-content>\r\n      <!-- Builds the hamburger menu from the items in the constants.ts file-->\r\n      <mat-sidenav class=\"side-nav\" #sidenav mode=\"side\"  >\r\n          <button class=\"hamburger-menu\" mat-icon-button (click)=\"toggleDrawer()\">\r\n              <mat-icon [inline]=\"true\">menu</mat-icon>\r\n            </button>\r\n            <!--  -->\r\n        <div class=\"button-container\" fxLayout=\"column\" fxLayoutAlign=\"space-between\" >\r\n        <button class=\"item-button\"  mat-menu-item  fxLayoutAlign=\"space-between center\"  *ngFor= \"let item of MenuItems\" \r\n          [disabled]= item.Disabled [routerLink]=[item.Url,item.Param] (click)=\"toggleDrawer()\">\r\n          <!-- <mat-icon *ngIf=\"item.Icon\">{{ item.Icon }}</mat-icon> -->\r\n          <span>{{ item.Label }}</span>\r\n        </button>\r\n      </div>\r\n      </mat-sidenav>\r\n</mat-sidenav-container>\r\n\r\n     ",
                         styles: [".hamburger-menu{background-color:transparent;border-width:0;outline:0;font-size:30px}.mat-sidenav-container{width:210px;background-color:transparent}.mat-sidenav-content{height:100vh;background-color:transparent;width:40px}.side-nav{height:100vh;background-color:transparent;border-right:transparent}.button-container{height:75vh;background-color:transparent;z-index:10;width:210px}.item-button{height:40px;width:100%;background-color:#fff;font-size:20px}.item-button:hover{background-color:Grey}"]
                     }] }
         ];
@@ -80,7 +64,7 @@
         };
         SideNavComponent.propDecorators = {
             MenuItems: [{ type: core.Input, args: ['menu-items',] }],
-            CloseSideNav: [{ type: core.Input, args: ['close-side-nav',] }],
+            openedSubject: [{ type: core.Input, args: ['opened-subject',] }],
             sidenav: [{ type: core.ViewChild, args: ['sidenav',] }]
         };
         return SideNavComponent;
