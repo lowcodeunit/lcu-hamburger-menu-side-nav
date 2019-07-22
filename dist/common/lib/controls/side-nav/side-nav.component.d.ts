@@ -8,8 +8,10 @@ export declare class SideNavComponent {
     protected _navLinks: Array<NavLinkModel>;
     SideOpen: boolean;
     MenuItems: Array<NavLinkModel>;
+    CloseSideNav: boolean;
     sidenav: MatSidenav;
     constructor(breakpointObserver: BreakpointObserver);
     ngOnInit(): void;
     toggleDrawer(): void;
+    CloseDrawer(value: boolean): void;
 }
