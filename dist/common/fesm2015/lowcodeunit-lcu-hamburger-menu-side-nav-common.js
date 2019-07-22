@@ -11,6 +11,7 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 class SideNavComponent {
+    // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
     /**
      * @param {?} breakpointObserver
      */
@@ -23,6 +24,13 @@ class SideNavComponent {
          */
         result => result.matches)));
         this.SideOpen = false;
+    }
+    /**
+     * @param {?} value
+     * @return {?}
+     */
+    set CloseSideNav(value) {
+        this.CloseDrawer(value);
     }
     /**
      * @return {?}
@@ -42,6 +50,14 @@ class SideNavComponent {
             this.SideOpen = true;
         }
     }
+    /**
+     * @param {?} value
+     * @return {?}
+     */
+    CloseDrawer(value) {
+        this.SideOpen = value;
+        this.sidenav.close();
+    }
 }
 SideNavComponent.decorators = [
     { type: Component, args: [{
@@ -55,7 +71,8 @@ SideNavComponent.ctorParameters = () => [
     { type: BreakpointObserver }
 ];
 SideNavComponent.propDecorators = {
-    MenuItems: [{ type: Input }],
+    MenuItems: [{ type: Input, args: ['menu-items',] }],
+    CloseSideNav: [{ type: Input, args: ['close-side-nav',] }],
     sidenav: [{ type: ViewChild, args: ['sidenav',] }]
 };
 

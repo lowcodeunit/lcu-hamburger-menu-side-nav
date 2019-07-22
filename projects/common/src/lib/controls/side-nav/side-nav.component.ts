@@ -23,10 +23,16 @@ export class SideNavComponent {
   
   public SideOpen: boolean;
 
-  @Input() MenuItems: Array<NavLinkModel>;
+  @Input('menu-items') 
+  MenuItems: Array<NavLinkModel>;
+
+  @Input('close-side-nav') 
+  set CloseSideNav(value:boolean){
+    this.CloseDrawer(value);
+  }
 
   @ViewChild('sidenav') public sidenav: MatSidenav;
-
+  // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
 
 
   constructor(protected breakpointObserver: BreakpointObserver) {
@@ -40,11 +46,16 @@ export class SideNavComponent {
   public toggleDrawer() {
     if (this.sidenav.opened) {
       this.sidenav.close();
-      this.SideOpen=false
+      this.SideOpen = false
     } else {
       this.sidenav.open();
       this.SideOpen = true;
     }
+  }
+
+  public CloseDrawer(value: boolean){
+    this.SideOpen = value;
+    this.sidenav.close();
   }
 
 }
