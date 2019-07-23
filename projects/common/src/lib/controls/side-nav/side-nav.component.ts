@@ -24,7 +24,7 @@ export class SideNavComponent {
   @Input('menu-items') 
   MenuItems: Array<NavLinkModel>;
 
-  // @Input('opened-subject') 
+  @Input('opened-subject') 
   public openedSubject: Subject<boolean>;
 
   public SideOpen: boolean;
