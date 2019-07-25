@@ -29,7 +29,7 @@ export class SideNavComponent {
 
   public SideOpen: boolean;
 
-  @ViewChild('sidenav') public sidenav: MatSidenav;
+  @ViewChild('sidenav',{static: false}) public sidenav: MatSidenav;
   // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
 
 
