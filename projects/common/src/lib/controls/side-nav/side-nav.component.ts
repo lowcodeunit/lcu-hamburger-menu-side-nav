@@ -24,12 +24,9 @@ export class SideNavComponent {
   @Input('menu-items') 
   public MenuItems: Array<NavLinkModel>;
 
-  public openedSubject: Subject<boolean>;
+  //public openedSubject: Subject<boolean>;
   @Input('opened-subject') 
-  public set OpenedSubject(value: Subject<boolean>){
-    this.openedSubject = value;
-    console.log("contentWidth: ", this.MatContentWidth);
-  }
+  public openedSubject: Subject<boolean>
 
   public MatContentWidth: string;
 
@@ -38,12 +35,9 @@ export class SideNavComponent {
   public MatContainerWidth: string;
 
   @ViewChild('sidenav',{static: false}) public sidenav: MatSidenav;
-  // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
-
 
   constructor(protected breakpointObserver: BreakpointObserver) {
    this.openedSubject = new Subject<boolean>();
-   //this.SideOpen = false;
    this.MatContentWidth = "40px";
    this.MatContentHeight = "40px";
    this.MatContainerWidth= "40px";
@@ -54,20 +48,15 @@ export class SideNavComponent {
   }
 
   ngAfterContentInit() {
-    // this.openedSubject.subscribe(
-    //   keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
-    // );
     this.openedSubject.subscribe((result: boolean)=>{
       this.sidenav[result ? 'open': 'close']()
       this.setStyles();
     });
-    //console.log("Opened Subject: ", this.MatContainerWidth);
   }
 
 
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
-    //so the hamburger menu doesnt come all the way across the screen when closing the menu
     if(!this.sidenav.opened){
     this.MatContentWidth = "40px";
     this.MatContainerWidth = "40px";
