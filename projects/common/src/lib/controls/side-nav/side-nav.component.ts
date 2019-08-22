@@ -27,8 +27,6 @@ export class SideNavComponent {
   @Input('opened-subject') 
   public openedSubject: Subject<boolean>;
 
-  //public SideOpen: boolean;
-
   public MatContentWidth: string;
 
   public MatContentHeight: string;
@@ -55,6 +53,7 @@ export class SideNavComponent {
     this.openedSubject.subscribe(
       keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
     );
+    console.log("Opened Subject: ", this.MatContainerWidth);
   }
 
 
