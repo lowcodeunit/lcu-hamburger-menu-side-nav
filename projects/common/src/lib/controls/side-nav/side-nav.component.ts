@@ -29,6 +29,12 @@ export class SideNavComponent {
 
   public SideOpen: boolean;
 
+  public MatContentWidth: string;
+
+  public MatContentHeight: string;
+
+  public MatContainerWidth: string;
+
   @ViewChild('sidenav',{static: false}) public sidenav: MatSidenav;
   // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
 
@@ -36,6 +42,9 @@ export class SideNavComponent {
   constructor(protected breakpointObserver: BreakpointObserver) {
    this.openedSubject = new Subject<boolean>();
    this.SideOpen = false;
+   this.MatContentWidth = "40px";
+   this.MatContentHeight = "40px";
+   this.MatContainerWidth= "40px";
   }
 
   public ngOnInit(): void {
@@ -56,9 +65,18 @@ export class SideNavComponent {
     setTimeout(()=>{
       this.SideOpen = !this.SideOpen;
     },100);
+    this.MatContentWidth = "40px";
+    this.MatContainerWidth = "40px";
+    this.MatContentHeight = "40px";
+    // console.log("sidenav closed", this.MatContentWidth);
   }
   else{
     this.SideOpen = !this.SideOpen;
+    this.MatContentWidth = "0px";
+    this.MatContentHeight = "100vh";
+    this.MatContainerWidth = "210px";
+    // console.log("sidenav open", this.MatContentWidth);
+
   }
   }
 

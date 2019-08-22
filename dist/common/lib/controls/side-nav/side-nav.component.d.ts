@@ -9,6 +9,9 @@ export declare class SideNavComponent {
     MenuItems: Array<NavLinkModel>;
     openedSubject: Subject<boolean>;
     SideOpen: boolean;
+    MatContentWidth: string;
+    MatContentHeight: string;
+    MatContainerWidth: string;
     sidenav: MatSidenav;
     constructor(breakpointObserver: BreakpointObserver);
     ngOnInit(): void;
