@@ -1,6 +1,6 @@
-<mat-sidenav-container class="mat-sidenav-container" [hasBackdrop]="false">
-  <mat-sidenav-content class="mat-sidenav-content">
-    <button class="hamburger-menu" mat-icon-button (click)="toggleDrawer()">
+<mat-sidenav-container  class="mat-sidenav-container" [hasBackdrop]="false" [ngStyle]="{width: MatContainerWidth}">
+  <mat-sidenav-content class="mat-sidenav-content" [ngStyle]="{width: MatContentWidth, height: MatContentHeight}">
+    <button *ngIf="SideOpen === false" class="hamburger-menu" mat-icon-button (click)="toggleDrawer()" >
       <mat-icon [inline]="true">menu</mat-icon>
     </button>
   </mat-sidenav-content>
