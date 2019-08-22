@@ -24,14 +24,10 @@ export class SideNavComponent {
   @Input('menu-items') 
   public MenuItems: Array<NavLinkModel>;
   
-  //public openedSubject: Subject<boolean>;
   @Input('opened-subject') 
   public openedSubject: Subject<boolean>;
-    // this.openedSubject = value;
-    // this.SideOpen = false;
-  // }
 
-  public SideOpen: boolean;
+  //public SideOpen: boolean;
 
   public MatContentWidth: string;
 
@@ -45,7 +41,7 @@ export class SideNavComponent {
 
   constructor(protected breakpointObserver: BreakpointObserver) {
    this.openedSubject = new Subject<boolean>();
-   this.SideOpen = false;
+   //this.SideOpen = false;
    this.MatContentWidth = "40px";
    this.MatContentHeight = "40px";
    this.MatContainerWidth= "40px";
@@ -65,17 +61,16 @@ export class SideNavComponent {
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
     //so the hamburger menu doesnt come all the way across the screen when closing the menu
-    if(this.SideOpen === true){
-    setTimeout(()=>{
-      this.SideOpen = !this.SideOpen;
-    },100);
+    if(!this.sidenav.opened){
+    // setTimeout(()=>{
+    //   this.sidenav.close();
+    // },100);
     this.MatContentWidth = "40px";
     this.MatContainerWidth = "40px";
     this.MatContentHeight = "40px";
     // console.log("sidenav closed", this.MatContentWidth);
   }
   else{
-    this.SideOpen = !this.SideOpen;
     this.MatContentWidth = "0px";
     this.MatContentHeight = "100vh";
     this.MatContainerWidth = "210px";
