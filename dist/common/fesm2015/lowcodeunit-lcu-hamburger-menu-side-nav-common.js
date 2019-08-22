@@ -12,7 +12,6 @@ import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 class SideNavComponent {
-    // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
     /**
      * @param {?} breakpointObserver
      */
@@ -25,18 +24,9 @@ class SideNavComponent {
          */
         result => result.matches)));
         this.openedSubject = new Subject();
-        //this.SideOpen = false;
         this.MatContentWidth = "40px";
         this.MatContentHeight = "40px";
         this.MatContainerWidth = "40px";
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    set OpenedSubject(value) {
-        this.openedSubject = value;
-        console.log("contentWidth: ", this.MatContentWidth);
     }
     /**
      * @return {?}
@@ -47,9 +37,6 @@ class SideNavComponent {
      * @return {?}
      */
     ngAfterContentInit() {
-        // this.openedSubject.subscribe(
-        //   keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
-        // );
         this.openedSubject.subscribe((/**
          * @param {?} result
          * @return {?}
@@ -58,14 +45,12 @@ class SideNavComponent {
             this.sidenav[result ? 'open' : 'close']();
             this.setStyles();
         }));
-        //console.log("Opened Subject: ", this.MatContainerWidth);
     }
     /**
      * @return {?}
      */
     toggleDrawer() {
         this.openedSubject.next(!this.sidenav.opened);
-        //so the hamburger menu doesnt come all the way across the screen when closing the menu
         if (!this.sidenav.opened) {
             this.MatContentWidth = "40px";
             this.MatContainerWidth = "40px";
@@ -102,7 +87,7 @@ SideNavComponent.ctorParameters = () => [
 ];
 SideNavComponent.propDecorators = {
     MenuItems: [{ type: Input, args: ['menu-items',] }],
-    OpenedSubject: [{ type: Input, args: ['opened-subject',] }],
+    openedSubject: [{ type: Input, args: ['opened-subject',] }],
     sidenav: [{ type: ViewChild, args: ['sidenav', { static: false },] }]
 };
 

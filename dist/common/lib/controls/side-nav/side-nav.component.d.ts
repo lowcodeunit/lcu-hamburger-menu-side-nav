@@ -8,7 +8,6 @@ export declare class SideNavComponent {
     protected _navLinks: Array<NavLinkModel>;
     MenuItems: Array<NavLinkModel>;
     openedSubject: Subject<boolean>;
-    OpenedSubject: Subject<boolean>;
     MatContentWidth: string;
     MatContentHeight: string;
     MatContainerWidth: string;

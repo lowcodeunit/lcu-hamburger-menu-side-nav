@@ -12,7 +12,6 @@ import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SideNavComponent = /** @class */ (function () {
-    // @ViewChild('sidenav', { static: true })public sidenav: MatSidenav;
     function SideNavComponent(breakpointObserver) {
         this.breakpointObserver = breakpointObserver;
         this.isHandset$ = this.breakpointObserver.observe(Breakpoints.Handset)
@@ -22,23 +21,10 @@ var SideNavComponent = /** @class */ (function () {
          */
         function (result) { return result.matches; })));
         this.openedSubject = new Subject();
-        //this.SideOpen = false;
         this.MatContentWidth = "40px";
         this.MatContentHeight = "40px";
         this.MatContainerWidth = "40px";
     }
-    Object.defineProperty(SideNavComponent.prototype, "OpenedSubject", {
-        set: /**
-         * @param {?} value
-         * @return {?}
-         */
-        function (value) {
-            this.openedSubject = value;
-            console.log("contentWidth: ", this.MatContentWidth);
-        },
-        enumerable: true,
-        configurable: true
-    });
     /**
      * @return {?}
      */
@@ -55,9 +41,6 @@ var SideNavComponent = /** @class */ (function () {
      */
     function () {
         var _this = this;
-        // this.openedSubject.subscribe(
-        //   keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
-        // );
         this.openedSubject.subscribe((/**
          * @param {?} result
          * @return {?}
@@ -66,7 +49,6 @@ var SideNavComponent = /** @class */ (function () {
             _this.sidenav[result ? 'open' : 'close']();
             _this.setStyles();
         }));
-        //console.log("Opened Subject: ", this.MatContainerWidth);
     };
     /**
      * @return {?}
@@ -76,7 +58,6 @@ var SideNavComponent = /** @class */ (function () {
      */
     function () {
         this.openedSubject.next(!this.sidenav.opened);
-        //so the hamburger menu doesnt come all the way across the screen when closing the menu
         if (!this.sidenav.opened) {
             this.MatContentWidth = "40px";
             this.MatContainerWidth = "40px";
@@ -116,7 +97,7 @@ var SideNavComponent = /** @class */ (function () {
     ]; };
     SideNavComponent.propDecorators = {
         MenuItems: [{ type: Input, args: ['menu-items',] }],
-        OpenedSubject: [{ type: Input, args: ['opened-subject',] }],
+        openedSubject: [{ type: Input, args: ['opened-subject',] }],
         sidenav: [{ type: ViewChild, args: ['sidenav', { static: false },] }]
     };
     return SideNavComponent;
