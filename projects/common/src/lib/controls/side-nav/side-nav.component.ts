@@ -22,10 +22,14 @@ export class SideNavComponent {
   protected _navLinks: Array<NavLinkModel>;
   
   @Input('menu-items') 
-  MenuItems: Array<NavLinkModel>;
-
-  @Input('opened-subject') 
+  public MenuItems: Array<NavLinkModel>;
+  
   public openedSubject: Subject<boolean>;
+  @Input('opened-subject') 
+  public set OpenedSubject(value: Subject<boolean>){
+    this.openedSubject = value;
+    this.SideOpen = false;
+  }
 
   public SideOpen: boolean;
 
@@ -55,6 +59,7 @@ export class SideNavComponent {
     this.openedSubject.subscribe(
       keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
     );
+    //this.SideOpen = !this.SideOpen;
   }
 
 
