@@ -26,7 +26,7 @@ export class SideNavComponent {
 
   public openedSubject: Subject<boolean>;
   @Input('opened-subject') 
-  public OpenedSubject(value: Subject<boolean>){
+  public set OpenedSubject(value: Subject<boolean>){
     this.openedSubject = value;
     console.log("contentWidth: ", this.MatContentWidth);
   }
