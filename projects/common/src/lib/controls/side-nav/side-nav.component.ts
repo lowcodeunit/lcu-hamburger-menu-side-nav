@@ -54,10 +54,14 @@ export class SideNavComponent {
   }
 
   ngAfterContentInit() {
-    this.openedSubject.subscribe(
-      keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
-    );
-    console.log("Opened Subject: ", this.MatContainerWidth);
+    // this.openedSubject.subscribe(
+    //   keepOpen => this.sidenav[keepOpen ? 'open' : 'close']()
+    // );
+    this.openedSubject.subscribe((result: boolean)=>{
+      this.sidenav[result ? 'open': 'close']()
+      this.setStyles();
+    });
+    //console.log("Opened Subject: ", this.MatContainerWidth);
   }
 
 
@@ -65,9 +69,6 @@ export class SideNavComponent {
     this.openedSubject.next(!this.sidenav.opened);
     //so the hamburger menu doesnt come all the way across the screen when closing the menu
     if(!this.sidenav.opened){
-    // setTimeout(()=>{
-    //   this.sidenav.close();
-    // },100);
     this.MatContentWidth = "40px";
     this.MatContainerWidth = "40px";
     this.MatContentHeight = "40px";
@@ -81,6 +82,10 @@ export class SideNavComponent {
 
   }
   }
-
+  protected setStyles():void{
+    this.MatContentWidth = "40px";
+    this.MatContainerWidth = "40px";
+    this.MatContentHeight = "40px";
+  }
 }
 
