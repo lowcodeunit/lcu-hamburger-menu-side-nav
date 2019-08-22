@@ -23,9 +23,13 @@ export class SideNavComponent {
   
   @Input('menu-items') 
   public MenuItems: Array<NavLinkModel>;
-  
-  @Input('opened-subject') 
+
   public openedSubject: Subject<boolean>;
+  @Input('opened-subject') 
+  public OpenedSubject(value: Subject<boolean>){
+    this.openedSubject = value;
+    console.log("contentWidth: ", this.MatContentWidth);
+  }
 
   public MatContentWidth: string;
 
