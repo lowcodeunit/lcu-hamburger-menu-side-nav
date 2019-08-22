@@ -8,7 +8,7 @@ export declare class SideNavComponent {
     protected _navLinks: Array<NavLinkModel>;
     MenuItems: Array<NavLinkModel>;
     openedSubject: Subject<boolean>;
-    SideOpen: boolean;
+    OpenedSubject: Subject<boolean>;
     MatContentWidth: string;
     MatContentHeight: string;
     MatContainerWidth: string;
@@ -17,4 +17,5 @@ export declare class SideNavComponent {
     ngOnInit(): void;
     ngAfterContentInit(): void;
     toggleDrawer(): void;
+    protected setStyles(): void;
 }
