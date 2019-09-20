@@ -1,6 +1,6 @@
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 export { LcuHamburgerMenuSideNavModule } from './lib/lcu-hamburger-menu-side-nav.module';
 export { SideNavComponent } from './lib/controls/side-nav/side-nav.component';

@@ -1,15 +1,15 @@
 import { Component, Input, ViewChild, NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
+import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 import { Subject } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { MatSidenavModule, MatIconModule } from '@angular/material';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SideNavComponent = /** @class */ (function () {
     function SideNavComponent(breakpointObserver) {
@@ -102,10 +102,36 @@ var SideNavComponent = /** @class */ (function () {
     };
     return SideNavComponent;
 }());
+if (false) {
+    /** @type {?} */
+    SideNavComponent.prototype.isHandset$;
+    /**
+     * @type {?}
+     * @protected
+     */
+    SideNavComponent.prototype._navLinks;
+    /** @type {?} */
+    SideNavComponent.prototype.MenuItems;
+    /** @type {?} */
+    SideNavComponent.prototype.openedSubject;
+    /** @type {?} */
+    SideNavComponent.prototype.MatContentWidth;
+    /** @type {?} */
+    SideNavComponent.prototype.MatContentHeight;
+    /** @type {?} */
+    SideNavComponent.prototype.MatContainerWidth;
+    /** @type {?} */
+    SideNavComponent.prototype.sidenav;
+    /**
+     * @type {?}
+     * @protected
+     */
+    SideNavComponent.prototype.breakpointObserver;
+}
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var LcuHamburgerMenuSideNavModule = /** @class */ (function () {
     function LcuHamburgerMenuSideNavModule() {
@@ -130,7 +156,7 @@ var LcuHamburgerMenuSideNavModule = /** @class */ (function () {
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 /**
  * Model for naviation link structure
@@ -148,6 +174,43 @@ NavLinkModel = /** @class */ (function () {
     }
     return NavLinkModel;
 }());
+if (false) {
+    /**
+     * Menu icon
+     * @type {?}
+     */
+    NavLinkModel.prototype.Icon;
+    /**
+     * Menu label
+     * @type {?}
+     */
+    NavLinkModel.prototype.Label;
+    /**
+     * Menu parameter
+     * @type {?}
+     */
+    NavLinkModel.prototype.Param;
+    /**
+     * Navigation URL
+     * @type {?}
+     */
+    NavLinkModel.prototype.Url;
+    /**
+     * String value true or false, whether or not to grey out the button
+     * @type {?}
+     */
+    NavLinkModel.prototype.Disabled;
+}
+
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
 
 export { LcuHamburgerMenuSideNavModule, NavLinkModel, SideNavComponent };
 //# sourceMappingURL=lowcodeunit-lcu-hamburger-menu-side-nav-common.js.map
