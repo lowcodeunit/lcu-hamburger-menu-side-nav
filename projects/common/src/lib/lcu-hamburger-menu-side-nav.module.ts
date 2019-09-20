@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SideNavComponent } from './controls/side-nav/side-nav.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { MatSidenavModule, MatIconModule } from '@angular/material';
 
 @NgModule({
