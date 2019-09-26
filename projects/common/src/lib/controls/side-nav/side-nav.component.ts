@@ -65,7 +65,7 @@ export class SideNavComponent {
   }
   else{
     this.MatContentWidth = "0px";
-    this.MatContentHeight = "100vh";
+    this.MatContentHeight = "90vh";
     this.MatContainerWidth = "210px";
     // console.log("sidenav open", this.MatContentWidth);
 
