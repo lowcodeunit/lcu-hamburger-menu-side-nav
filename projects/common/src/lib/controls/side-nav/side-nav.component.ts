@@ -28,13 +28,24 @@ export class SideNavComponent {
   @Input('opened-subject') 
   public openedSubject: Subject<boolean>
 
+  @Input('color')
+  public Color: string;
+
+  @Input('hover-color')
+  public HoverColor: string;
+  
+  @Input('mat-content-width')
   public MatContentWidth: string;
 
+  @Input('mat-content-height')
   public MatContentHeight: string;
 
+  @Input('mat-container-width')
   public MatContainerWidth: string;
 
   @ViewChild('sidenav',{static: false}) public sidenav: MatSidenav;
+
+  public MenuColor: string;
 
   constructor(protected breakpointObserver: BreakpointObserver) {
    this.openedSubject = new Subject<boolean>();
@@ -44,7 +55,7 @@ export class SideNavComponent {
   }
 
   public ngOnInit(): void {
-    
+    this.setDefaultStyles();
   }
 
   ngAfterContentInit() {
@@ -71,10 +82,29 @@ export class SideNavComponent {
 
   }
   }
+  public OnHover():void{
+    this.MenuColor = this.HoverColor;
+  }
+
+  public LeaveHover(): void{
+    this.MenuColor = this.Color;
+  }
   protected setStyles():void{
     this.MatContentWidth = "40px";
     this.MatContainerWidth = "40px";
     this.MatContentHeight = "40px";
+  }
+
+  protected setDefaultStyles(): void{
+    this.setStyles();
+    
+    if(!this.Color){
+      this.Color = 'black';
+    }
+    this.MenuColor = this.Color;
+    if(!this.HoverColor){
+      this.HoverColor = 'grey';
+    }
   }
 }
 
