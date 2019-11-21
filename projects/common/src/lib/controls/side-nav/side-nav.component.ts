@@ -1,4 +1,4 @@
-import { Component, Input, ViewChild } from '@angular/core';
+import { Component, Input, ViewChild, Output, EventEmitter } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { Observable, Subject } from 'rxjs';
 import { map } from 'rxjs/operators';
@@ -20,12 +20,15 @@ export class SideNavComponent {
     );
 
   protected _navLinks: Array<NavLinkModel>;
-  
-  @Input('menu-items') 
+
+  @Output('nav-item-clicked')
+  public NavItemClicked: EventEmitter<any>;
+
+  @Input('menu-items')
   public MenuItems: Array<NavLinkModel>;
 
   //public openedSubject: Subject<boolean>;
-  @Input('opened-subject') 
+  @Input('opened-subject')
   public openedSubject: Subject<boolean>
 
   @Input('color')
@@ -33,7 +36,7 @@ export class SideNavComponent {
 
   @Input('hover-color')
   public HoverColor: string;
-  
+
   @Input('mat-content-width')
   public MatContentWidth: string;
 
@@ -43,15 +46,16 @@ export class SideNavComponent {
   @Input('mat-container-width')
   public MatContainerWidth: string;
 
-  @ViewChild('sidenav',{static: false}) public sidenav: MatSidenav;
+  @ViewChild('sidenav', { static: false }) public sidenav: MatSidenav;
 
   public MenuColor: string;
 
   constructor(protected breakpointObserver: BreakpointObserver) {
-   this.openedSubject = new Subject<boolean>();
-   this.MatContentWidth = "40px";
-   this.MatContentHeight = "40px";
-   this.MatContainerWidth= "40px";
+    this.NavItemClicked = new EventEmitter<any>();
+    this.openedSubject = new Subject<boolean>();
+    this.MatContentWidth = "40px";
+    this.MatContentHeight = "40px";
+    this.MatContainerWidth = "40px";
   }
 
   public ngOnInit(): void {
@@ -59,50 +63,54 @@ export class SideNavComponent {
   }
 
   ngAfterContentInit() {
-    this.openedSubject.subscribe((result: boolean)=>{
-      this.sidenav[result ? 'open': 'close']()
+    this.openedSubject.subscribe((result: boolean) => {
+      this.sidenav[result ? 'open' : 'close']()
       this.setStyles();
     });
+  }
+
+  public ButtonClicked(button) {
+    this.NavItemClicked.emit(button);
   }
 
 
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
-    if(!this.sidenav.opened){
-    this.MatContentWidth = "40px";
-    this.MatContainerWidth = "40px";
-    this.MatContentHeight = "40px";
-    // console.log("sidenav closed", this.MatContentWidth);
-  }
-  else{
-    this.MatContentWidth = "0px";
-    this.MatContentHeight = "94vh";//94vh
-    this.MatContainerWidth = "210px";
-    // console.log("sidenav open", this.MatContentWidth);
+    if (!this.sidenav.opened) {
+      this.MatContentWidth = "40px";
+      this.MatContainerWidth = "40px";
+      this.MatContentHeight = "40px";
+      // console.log("sidenav closed", this.MatContentWidth);
+    }
+    else {
+      this.MatContentWidth = "0px";
+      this.MatContentHeight = "94vh";//94vh
+      this.MatContainerWidth = "210px";
+      // console.log("sidenav open", this.MatContentWidth);
 
+    }
   }
-  }
-  public OnHover():void{
+  public OnHover(): void {
     this.MenuColor = this.HoverColor;
   }
 
-  public LeaveHover(): void{
+  public LeaveHover(): void {
     this.MenuColor = this.Color;
   }
-  protected setStyles():void{
+  protected setStyles(): void {
     this.MatContentWidth = "40px";
     this.MatContainerWidth = "40px";
     this.MatContentHeight = "40px";
   }
 
-  protected setDefaultStyles(): void{
+  protected setDefaultStyles(): void {
     this.setStyles();
-    
-    if(!this.Color){
+
+    if (!this.Color) {
       this.Color = 'black';
     }
     this.MenuColor = this.Color;
-    if(!this.HoverColor){
+    if (!this.HoverColor) {
       this.HoverColor = 'grey';
     }
   }
