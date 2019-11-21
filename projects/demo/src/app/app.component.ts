@@ -36,4 +36,8 @@ export class AppComponent implements OnInit {
     this.openedSubject.next(false);
   }
 
+  public NavItemClicked(item) {
+    console.log(item);
+  }
+
 }

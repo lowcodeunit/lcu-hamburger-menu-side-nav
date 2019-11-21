@@ -1,4 +1,4 @@
     <!-- [opened-subject]="openedSubject" -->
-    <lcu-side-nav [menu-items]="Items" [opened-subject]="openedSubject" [color]="Color" [hover-color]="HoverColor"></lcu-side-nav>
+    <lcu-side-nav (nav-item-clicked)="NavItemClicked($event)" [menu-items]="Items" [opened-subject]="openedSubject" [color]="Color" [hover-color]="HoverColor"></lcu-side-nav>
 
 

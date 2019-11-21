@@ -12,7 +12,7 @@
     <!--  -->
     <div class="button-container" fxLayout="column" fxLayoutAlign="space-between">
       <button class="item-button" mat-menu-item fxLayoutAlign="space-between center" *ngFor="let item of MenuItems"
-        [disabled]=item.Disabled [routerLink]=[item.Url,item.Param]>
+        [disabled]=item.Disabled (click)="ButtonClicked(item)">
         <!-- <mat-icon *ngIf="item.Icon">{{ item.Icon }}</mat-icon> -->
         <span>{{ item.Label }}</span>
       </button>
