@@ -1,3 +1,4 @@
+import { EventEmitter } from '@angular/core';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { Observable, Subject } from 'rxjs';
 import { NavLinkModel } from '../../models/nav-link.model';
@@ -6,21 +7,30 @@ export declare class SideNavComponent {
     protected breakpointObserver: BreakpointObserver;
     isHandset$: Observable<boolean>;
     protected _navLinks: Array<NavLinkModel>;
+    NavItemClicked: EventEmitter<any>;
     MenuItems: Array<NavLinkModel>;
     openedSubject: Subject<boolean>;
-    Color: string;
-    HoverColor: string;
+    MenuColor: string;
+    HoverMenuColor: string;
     MatContentWidth: string;
     MatContentHeight: string;
     MatContainerWidth: string;
+    ButtonBackgroundColor: string;
+    ButtonBackgroundColorHover: string;
+    FontColor: string;
+    MenuBGColor: string;
+    ButtonBGColor: string;
+    ButtonHover: boolean;
     sidenav: MatSidenav;
-    MenuColor: string;
     constructor(breakpointObserver: BreakpointObserver);
     ngOnInit(): void;
     ngAfterContentInit(): void;
+    ButtonClicked(button: any): void;
     toggleDrawer(): void;
     OnHover(): void;
+    OnButtonHover(): void;
     LeaveHover(): void;
+    LeaveButtonHover(): void;
     protected setStyles(): void;
     protected setDefaultStyles(): void;
 }

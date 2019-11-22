@@ -18,6 +18,9 @@ export class AppComponent implements OnInit {
 
   public Color: string;
   public HoverColor: string;
+  public ButtonBgColor: string;
+  public ButtonHoverBgColor: string;
+  public FontColor: string;
   openedSubject = new Subject<boolean>();
 
   constructor(
@@ -26,6 +29,10 @@ export class AppComponent implements OnInit {
     protected overlayContainer: OverlayContainer) {
       this.Color = 'black';
       this.HoverColor = '#FF9849';
+      this.ButtonBgColor = 'white';
+      this.ButtonHoverBgColor = 'red';//'#f4f4f3'
+      this.FontColor = '#8b868d';
+
   }
 
   public ngOnInit(): void {
