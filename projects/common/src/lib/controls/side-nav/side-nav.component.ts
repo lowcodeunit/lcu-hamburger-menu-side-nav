@@ -9,7 +9,7 @@ import { MatSidenav } from '@angular/material';
 @Component({
   selector: 'lcu-side-nav',
   templateUrl: './side-nav.component.html',
-  styleUrls: ['./side-nav.component.scss']
+  styleUrls: ['./side-nav.component.scss']  
 })
 
 export class SideNavComponent {
@@ -31,11 +31,11 @@ export class SideNavComponent {
   @Input('opened-subject')
   public openedSubject: Subject<boolean>
 
-  @Input('color')
-  public Color: string;
+  @Input('menu-color')
+  public MenuColor: string;
 
-  @Input('hover-color')
-  public HoverColor: string;
+  @Input('hover-menu-color')
+  public HoverMenuColor: string;
 
   @Input('mat-content-width')
   public MatContentWidth: string;
@@ -46,16 +46,30 @@ export class SideNavComponent {
   @Input('mat-container-width')
   public MatContainerWidth: string;
 
+  @Input('button-background-color')
+  public ButtonBackgroundColor: string;
+
+  @Input('button-background-color-hover')
+  public ButtonBackgroundColorHover:string;
+
+  @Input('font-color')
+  public FontColor: string;
+
+  public MenuBGColor: string;
+  public ButtonBGColor: string;
+  public ButtonHover: boolean;
+
+
   @ViewChild('sidenav', { static: false }) public sidenav: MatSidenav;
 
-  public MenuColor: string;
+  // public MenuColor: string;
 
   constructor(protected breakpointObserver: BreakpointObserver) {
     this.NavItemClicked = new EventEmitter<any>();
     this.openedSubject = new Subject<boolean>();
-    this.MatContentWidth = "40px";
+    this.MatContentWidth = "50px";
     this.MatContentHeight = "40px";
-    this.MatContainerWidth = "40px";
+    this.MatContainerWidth = "50px";
   }
 
   public ngOnInit(): void {
@@ -77,41 +91,69 @@ export class SideNavComponent {
   public toggleDrawer() {
     this.openedSubject.next(!this.sidenav.opened);
     if (!this.sidenav.opened) {
-      this.MatContentWidth = "40px";
-      this.MatContainerWidth = "40px";
+      this.MatContentWidth = "50px";
+      this.MatContainerWidth = "50px";
       this.MatContentHeight = "40px";
       // console.log("sidenav closed", this.MatContentWidth);
     }
     else {
       this.MatContentWidth = "0px";
       this.MatContentHeight = "94vh";//94vh
-      this.MatContainerWidth = "210px";
+      this.MatContainerWidth = "230px";
       // console.log("sidenav open", this.MatContentWidth);
 
     }
   }
   public OnHover(): void {
-    this.MenuColor = this.HoverColor;
+    this.MenuBGColor = this.HoverMenuColor;
+  }
+
+  public OnButtonHover():void{
+    // this.ButtonBGColor = this.ButtonBackgroundColorHover;
+    this.ButtonHover = true;
   }
 
   public LeaveHover(): void {
-    this.MenuColor = this.Color;
+    this.MenuBGColor = this.MenuColor;
   }
+
+  public LeaveButtonHover():void{
+    // this.ButtonBGColor = this.ButtonBackgroundColor;
+    this.ButtonHover = false;
+  }
+
+  // public setButtonStyles() {
+  //   let styles = {
+  //     'background-color': this.ButtonHover ? this.ButtonBackgroundColorHover : this.ButtonBackgroundColor
+  //   };
+  //   return styles;
+  // }
   protected setStyles(): void {
-    this.MatContentWidth = "40px";
-    this.MatContainerWidth = "40px";
+    this.MatContentWidth = "50px";
+    this.MatContainerWidth = "50px";
     this.MatContentHeight = "40px";
   }
 
   protected setDefaultStyles(): void {
     this.setStyles();
 
-    if (!this.Color) {
-      this.Color = 'black';
+    if(!this.FontColor){
+      this.FontColor = 'black';
     }
-    this.MenuColor = this.Color;
-    if (!this.HoverColor) {
-      this.HoverColor = 'grey';
+
+    if(!this.ButtonBackgroundColorHover){
+      this.ButtonBackgroundColorHover = "grey"//#96957
+    }
+    if(!this.ButtonBackgroundColor){
+      this.ButtonBGColor = "white"//#96957
+    }
+
+    if (!this.MenuColor) {
+      this.MenuBGColor = 'black';
+    }
+    this.MenuBGColor = this.MenuColor;
+    if (!this.HoverMenuColor) {
+      this.HoverMenuColor = 'grey';
     }
   }
 }

@@ -3,6 +3,7 @@
   border-width:0;
   outline: none;
   font-size: 30px;
+  padding-left: 20px;
 }
 
 .mat-sidenav-container{
@@ -24,13 +25,13 @@
 }
 .side-nav{
   height: 100vh;
-  width: 210px;
+  width: 230px;
   background-color: transparent;
   border-right: transparent;
   overflow:hidden;
 }
 .button-container{
-  height: 81.5%; //change to match the length of the legend
+  // height: 81.5%; //change to match the length of the legend
   background-color:transparent;
   z-index: 10;
   width:100%;
@@ -38,12 +39,27 @@
   .item-button{
     height: 40px;
     width: 100%;
-    background-color: white;
     font-size: 20px;
+    border-color: #eaeaea;
+    border-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    .button-icon{
+      padding-left: 17px;
+    }
+    .button-title{
+      font-family: 'Montserrat', sans-serif;
+      padding-left: 60px;
+    }
+    &:hover{
+      background-color:#f4f4f3;
+    }
+    
+    
   }
-  .item-button:hover{
-    background-color:Grey;
-  }
+ 
 }
 
 
