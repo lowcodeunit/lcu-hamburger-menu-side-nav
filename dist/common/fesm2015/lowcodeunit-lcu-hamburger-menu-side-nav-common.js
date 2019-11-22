@@ -174,25 +174,56 @@ if (false) {
     SideNavComponent.prototype._navLinks;
     /** @type {?} */
     SideNavComponent.prototype.NavItemClicked;
-    /** @type {?} */
+    /**
+     * The items in the button icon,title, link
+     * @type {?}
+     */
     SideNavComponent.prototype.MenuItems;
-    /** @type {?} */
+    /**
+     * public openedSubject: Subject<boolean>;
+     * detects if the button has been clicked
+     * @type {?}
+     */
     SideNavComponent.prototype.openedSubject;
-    /** @type {?} */
+    /**
+     * The color of the menu Icon
+     * @type {?}
+     */
     SideNavComponent.prototype.MenuColor;
-    /** @type {?} */
+    /**
+     * The color of the menu icon when hover
+     * @type {?}
+     */
     SideNavComponent.prototype.HoverMenuColor;
-    /** @type {?} */
+    /**
+     * The width of the side nav content
+     * @type {?}
+     */
     SideNavComponent.prototype.MatContentWidth;
-    /** @type {?} */
+    /**
+     * The height of the side nav content
+     * @type {?}
+     */
     SideNavComponent.prototype.MatContentHeight;
-    /** @type {?} */
+    /**
+     * The width of the side nav container
+     * @type {?}
+     */
     SideNavComponent.prototype.MatContainerWidth;
-    /** @type {?} */
+    /**
+     * the background color of the buttons in menu
+     * @type {?}
+     */
     SideNavComponent.prototype.ButtonBackgroundColor;
-    /** @type {?} */
+    /**
+     * TODO when hover color is assigned all buttons display that color
+     * @type {?}
+     */
     SideNavComponent.prototype.ButtonBackgroundColorHover;
-    /** @type {?} */
+    /**
+     * The font color of both the icons and the text in the menu
+     * @type {?}
+     */
     SideNavComponent.prototype.FontColor;
     /** @type {?} */
     SideNavComponent.prototype.MenuBGColor;

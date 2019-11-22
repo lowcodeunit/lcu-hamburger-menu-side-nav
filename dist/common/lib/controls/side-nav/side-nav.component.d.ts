@@ -8,15 +8,46 @@ export declare class SideNavComponent {
     isHandset$: Observable<boolean>;
     protected _navLinks: Array<NavLinkModel>;
     NavItemClicked: EventEmitter<any>;
+    /**
+     * The items in the button icon,title, link
+     */
     MenuItems: Array<NavLinkModel>;
+    /**
+     * public openedSubject: Subject<boolean>;
+     * detects if the button has been clicked
+     */
     openedSubject: Subject<boolean>;
+    /**
+     * The color of the menu Icon
+     */
     MenuColor: string;
+    /**
+     * The color of the menu icon when hover
+     */
     HoverMenuColor: string;
+    /**
+     * The width of the side nav content
+     */
     MatContentWidth: string;
+    /**
+     * The height of the side nav content
+     */
     MatContentHeight: string;
+    /**
+     * The width of the side nav container
+     */
     MatContainerWidth: string;
+    /**
+     * the background color of the buttons in menu
+     */
     ButtonBackgroundColor: string;
+    /**
+     * TODO when hover color is assigned all buttons display that color
+     */
     ButtonBackgroundColorHover: string;
+    /**
+     * The font color of both the icons and the text in the menu
+     */
     FontColor: string;
     MenuBGColor: string;
     ButtonBGColor: string;

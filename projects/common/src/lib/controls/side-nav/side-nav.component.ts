@@ -23,35 +23,56 @@ export class SideNavComponent {
 
   @Output('nav-item-clicked')
   public NavItemClicked: EventEmitter<any>;
-
+/**
+ * The items in the button icon,title, link
+ */
   @Input('menu-items')
   public MenuItems: Array<NavLinkModel>;
 
-  //public openedSubject: Subject<boolean>;
+  /**
+   * public openedSubject: Subject<boolean>;
+   * detects if the button has been clicked
+   */
   @Input('opened-subject')
   public openedSubject: Subject<boolean>
-
+/**
+ * The color of the menu Icon
+ */
   @Input('menu-color')
   public MenuColor: string;
-
+/**
+ * The color of the menu icon when hover 
+ */
   @Input('hover-menu-color')
   public HoverMenuColor: string;
-
+/**
+ * The width of the side nav content
+ */
   @Input('mat-content-width')
   public MatContentWidth: string;
-
+/**
+ * The height of the side nav content
+ */
   @Input('mat-content-height')
   public MatContentHeight: string;
-
+/**
+ * The width of the side nav container
+ */
   @Input('mat-container-width')
   public MatContainerWidth: string;
-
+/**
+ * the background color of the buttons in menu
+ */
   @Input('button-background-color')
   public ButtonBackgroundColor: string;
-
+/**
+ * TODO when hover color is assigned all buttons display that color
+ */
   @Input('button-background-color-hover')
   public ButtonBackgroundColorHover:string;
-
+/**
+ * The font color of both the icons and the text in the menu
+ */
   @Input('font-color')
   public FontColor: string;
 
