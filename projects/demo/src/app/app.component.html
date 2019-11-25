@@ -1,5 +1,11 @@
     <!-- [opened-subject]="openedSubject" -->
-    <lcu-side-nav [menu-items]="Items" [opened-subject]="openedSubject"></lcu-side-nav>
-    <html (click)="toggleSide()">hello</html>
+    <lcu-side-nav (nav-item-clicked)="NavItemClicked($event)" 
+    [menu-items]="Items" 
+    [opened-subject]="openedSubject" 
+    [menu-color]="Color" 
+    [hover-menu-color]="HoverColor"
+    [button-background-color]="ButtonBgColor"
+    [button-background-color-hover]="ButtonHoverBgColor"
+    [font-color]="FontColor"></lcu-side-nav>
 
 

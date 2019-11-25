@@ -6,8 +6,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { FathymSharedModule, MaterialModule, FaviconsService, BrowserFavicons, BROWSER_FAVICONS_CONFIG } from '@lcu-ide/common';
-import { SideNavComponent } from 'projects/common/src/lib/controls/side-nav/side-nav.component';
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { MatIconModule, MatSidenavModule } from '@angular/material';
 import { LcuHamburgerMenuSideNavModule } from 'projects/common/src/lcu.api';
 

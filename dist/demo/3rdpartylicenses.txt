@@ -135,7 +135,7 @@ MIT
 @aspnet/signalr
 Apache-2.0
 
-@lcu-ide/common
+@lcu/common
 
 @lowcodeunit/lcu-hamburger-menu-side-nav-common
 
