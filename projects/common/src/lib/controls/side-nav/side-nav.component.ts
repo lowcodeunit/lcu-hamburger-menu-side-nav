@@ -166,7 +166,7 @@ export class SideNavComponent {
       this.ButtonBackgroundColorHover = "grey"//#96957
     }
     if(!this.ButtonBackgroundColor){
-      this.ButtonBGColor = "white"//#96957
+      this.ButtonBackgroundColor = "white"//#96957
     }
 
     if (!this.MenuColor) {
