@@ -45,16 +45,20 @@
     border-top: none;
     border-left: none;
     border-right: none;
+    background-color: white;
 
     .button-icon{
       padding-left: 17px;
     }
     .button-title{
       font-family: 'Montserrat', sans-serif;
-      padding-left: 60px;
+      padding-left: 42px;
     }
+
+    &:last-child { border-bottom: none; }
     &:hover{
       background-color:#f4f4f3;
+      cursor: pointer;
     }
     
     
