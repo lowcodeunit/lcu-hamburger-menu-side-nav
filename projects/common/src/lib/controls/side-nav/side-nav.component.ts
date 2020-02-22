@@ -25,7 +25,7 @@ export class SideNavComponent {
 
   @Input() MenuItems: Array<NavLinkModel>;
 
-  @ViewChild('sidenav') public sidenav: MatSidenav;
+  @ViewChild('sidenav', {static: false}) public sidenav: MatSidenav;
 
 
 

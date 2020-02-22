@@ -1,16 +1,17 @@
-import { CommonModule } from '@angular/common';
 import { Component, Input, ViewChild, NgModule } from '@angular/core';
-import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
+import { CommonModule } from '@angular/common';
+import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 import { map } from 'rxjs/operators';
+import { MatSidenavModule, MatIconModule } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { FathymSharedModule, MaterialModule } from '@lcu-ide/common';
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { MatSidenavModule, MatIconModule } from '@angular/material';
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * Generated from: lib/controls/side-nav/side-nav.component.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 class SideNavComponent {
     /**
@@ -58,12 +59,33 @@ SideNavComponent.ctorParameters = () => [
 ];
 SideNavComponent.propDecorators = {
     MenuItems: [{ type: Input }],
-    sidenav: [{ type: ViewChild, args: ['sidenav',] }]
+    sidenav: [{ type: ViewChild, args: ['sidenav', { static: false },] }]
 };
+if (false) {
+    /** @type {?} */
+    SideNavComponent.prototype.isHandset$;
+    /**
+     * @type {?}
+     * @protected
+     */
+    SideNavComponent.prototype._navLinks;
+    /** @type {?} */
+    SideNavComponent.prototype.SideOpen;
+    /** @type {?} */
+    SideNavComponent.prototype.MenuItems;
+    /** @type {?} */
+    SideNavComponent.prototype.sidenav;
+    /**
+     * @type {?}
+     * @protected
+     */
+    SideNavComponent.prototype.breakpointObserver;
+}
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * Generated from: lib/lcu-hamburger-menu-side-nav.module.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 class LcuHamburgerMenuSideNavModule {
 }
@@ -86,7 +108,8 @@ LcuHamburgerMenuSideNavModule.decorators = [
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * Generated from: lib/models/nav-link.model.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 /**
  * Model for naviation link structure
@@ -107,17 +130,45 @@ class NavLinkModel {
         this.Disabled = disabled;
     }
 }
+if (false) {
+    /**
+     * Menu icon
+     * @type {?}
+     */
+    NavLinkModel.prototype.Icon;
+    /**
+     * Menu label
+     * @type {?}
+     */
+    NavLinkModel.prototype.Label;
+    /**
+     * Menu parameter
+     * @type {?}
+     */
+    NavLinkModel.prototype.Param;
+    /**
+     * Navigation URL
+     * @type {?}
+     */
+    NavLinkModel.prototype.Url;
+    /**
+     * String value true or false, whether or not to grey out the button
+     * @type {?}
+     */
+    NavLinkModel.prototype.Disabled;
+}
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * Generated from: lcu.api.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
 /**
  * @fileoverview added by tsickle
- * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ * Generated from: lowcodeunit-lcu-hamburger-menu-side-nav-common.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
-export { LcuHamburgerMenuSideNavModule, SideNavComponent, NavLinkModel };
-
+export { LcuHamburgerMenuSideNavModule, NavLinkModel, SideNavComponent };
 //# sourceMappingURL=lowcodeunit-lcu-hamburger-menu-side-nav-common.js.map

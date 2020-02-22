@@ -1,21 +1,23 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/common'), require('@angular/core'), require('@angular/cdk/layout'), require('rxjs/operators'), require('@angular/platform-browser/animations'), require('@angular/flex-layout'), require('@lcu-ide/common'), require('@angular/forms'), require('@angular/material')) :
-    typeof define === 'function' && define.amd ? define('@lowcodeunit/lcu-hamburger-menu-side-nav-common', ['exports', '@angular/common', '@angular/core', '@angular/cdk/layout', 'rxjs/operators', '@angular/platform-browser/animations', '@angular/flex-layout', '@lcu-ide/common', '@angular/forms', '@angular/material'], factory) :
-    (factory((global.lowcodeunit = global.lowcodeunit || {}, global.lowcodeunit['lcu-hamburger-menu-side-nav-common'] = {}),global.ng.common,global.ng.core,global.ng.cdk.layout,global.rxjs.operators,global.ng.platformBrowser.animations,global.ng['flex-layout'],global.common$1,global.ng.forms,global.ng.material));
-}(this, (function (exports,common,core,layout,operators,animations,flexLayout,common$1,forms,material) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('@angular/cdk/layout'), require('rxjs/operators'), require('@angular/material'), require('@angular/platform-browser/animations'), require('@angular/flex-layout'), require('@lcu/common'), require('@angular/forms')) :
+    typeof define === 'function' && define.amd ? define('@lowcodeunit/lcu-hamburger-menu-side-nav-common', ['exports', '@angular/core', '@angular/common', '@angular/cdk/layout', 'rxjs/operators', '@angular/material', '@angular/platform-browser/animations', '@angular/flex-layout', '@lcu/common', '@angular/forms'], factory) :
+    (global = global || self, factory((global.lowcodeunit = global.lowcodeunit || {}, global.lowcodeunit['lcu-hamburger-menu-side-nav-common'] = {}), global.ng.core, global.ng.common, global.ng.cdk.layout, global.rxjs.operators, global.ng.material, global.ng.platformBrowser.animations, global.ng['flex-layout'], global.common$1, global.ng.forms));
+}(this, (function (exports, core, common, layout, operators, material, animations, flexLayout, common$1, forms) { 'use strict';
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * Generated from: lib/controls/side-nav/side-nav.component.ts
+     * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     var SideNavComponent = /** @class */ (function () {
         function SideNavComponent(breakpointObserver) {
             this.breakpointObserver = breakpointObserver;
             this.isHandset$ = this.breakpointObserver.observe(layout.Breakpoints.Handset)
-                .pipe(operators.map(( /**
-         * @param {?} result
-         * @return {?}
-         */function (result) { return result.matches; })));
+                .pipe(operators.map((/**
+             * @param {?} result
+             * @return {?}
+             */
+            function (result) { return result.matches; })));
             this.SideOpen = false;
         }
         /**
@@ -24,24 +26,24 @@
         SideNavComponent.prototype.ngOnInit = /**
          * @return {?}
          */
-            function () {
-            };
+        function () {
+        };
         /**
          * @return {?}
          */
         SideNavComponent.prototype.toggleDrawer = /**
          * @return {?}
          */
-            function () {
-                if (this.sidenav.opened) {
-                    this.sidenav.close();
-                    this.SideOpen = false;
-                }
-                else {
-                    this.sidenav.open();
-                    this.SideOpen = true;
-                }
-            };
+        function () {
+            if (this.sidenav.opened) {
+                this.sidenav.close();
+                this.SideOpen = false;
+            }
+            else {
+                this.sidenav.open();
+                this.SideOpen = true;
+            }
+        };
         SideNavComponent.decorators = [
             { type: core.Component, args: [{
                         selector: 'lcu-side-nav',
@@ -50,21 +52,40 @@
                     }] }
         ];
         /** @nocollapse */
-        SideNavComponent.ctorParameters = function () {
-            return [
-                { type: layout.BreakpointObserver }
-            ];
-        };
+        SideNavComponent.ctorParameters = function () { return [
+            { type: layout.BreakpointObserver }
+        ]; };
         SideNavComponent.propDecorators = {
             MenuItems: [{ type: core.Input }],
-            sidenav: [{ type: core.ViewChild, args: ['sidenav',] }]
+            sidenav: [{ type: core.ViewChild, args: ['sidenav', { static: false },] }]
         };
         return SideNavComponent;
     }());
+    if (false) {
+        /** @type {?} */
+        SideNavComponent.prototype.isHandset$;
+        /**
+         * @type {?}
+         * @protected
+         */
+        SideNavComponent.prototype._navLinks;
+        /** @type {?} */
+        SideNavComponent.prototype.SideOpen;
+        /** @type {?} */
+        SideNavComponent.prototype.MenuItems;
+        /** @type {?} */
+        SideNavComponent.prototype.sidenav;
+        /**
+         * @type {?}
+         * @protected
+         */
+        SideNavComponent.prototype.breakpointObserver;
+    }
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * Generated from: lib/lcu-hamburger-menu-side-nav.module.ts
+     * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     var LcuHamburgerMenuSideNavModule = /** @class */ (function () {
         function LcuHamburgerMenuSideNavModule() {
@@ -90,14 +111,16 @@
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * Generated from: lib/models/nav-link.model.ts
+     * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     /**
      * Model for naviation link structure
      */
-    var /**
+    var   /**
      * Model for naviation link structure
-     */ NavLinkModel = /** @class */ (function () {
+     */
+    NavLinkModel = /** @class */ (function () {
         function NavLinkModel(label, Url, icon, param, disabled) {
             this.Icon = icon;
             this.Label = label;
@@ -107,23 +130,39 @@
         }
         return NavLinkModel;
     }());
-
-    /**
-     * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
-     */
-
-    /**
-     * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
-     */
+    if (false) {
+        /**
+         * Menu icon
+         * @type {?}
+         */
+        NavLinkModel.prototype.Icon;
+        /**
+         * Menu label
+         * @type {?}
+         */
+        NavLinkModel.prototype.Label;
+        /**
+         * Menu parameter
+         * @type {?}
+         */
+        NavLinkModel.prototype.Param;
+        /**
+         * Navigation URL
+         * @type {?}
+         */
+        NavLinkModel.prototype.Url;
+        /**
+         * String value true or false, whether or not to grey out the button
+         * @type {?}
+         */
+        NavLinkModel.prototype.Disabled;
+    }
 
     exports.LcuHamburgerMenuSideNavModule = LcuHamburgerMenuSideNavModule;
-    exports.SideNavComponent = SideNavComponent;
     exports.NavLinkModel = NavLinkModel;
+    exports.SideNavComponent = SideNavComponent;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-
 //# sourceMappingURL=lowcodeunit-lcu-hamburger-menu-side-nav-common.umd.js.map
