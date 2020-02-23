@@ -5,7 +5,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { MatSidenavModule, MatIconModule } from '@angular/material';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [SideNavComponent],
@@ -19,6 +20,8 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
     ReactiveFormsModule,
     MatSidenavModule,
     MatIconModule
-  ]
+  ],
+  exports: [SideNavComponent],
+  entryComponents: [SideNavComponent]
 })
 export class LcuHamburgerMenuSideNavModule { }

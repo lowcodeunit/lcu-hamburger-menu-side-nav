@@ -1,9 +1,9 @@
+import { MatSidenav } from '@angular/material/sidenav';
+import { Breakpoints, BreakpointState, BreakpointObserver } from '@angular/cdk/layout';
 import { Component, Input, ViewChild } from '@angular/core';
-import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { NavLinkModel } from '../../models/nav-link.model';
-import { MatSidenav } from '@angular/material';
 
 
 @Component({
@@ -16,31 +16,26 @@ export class SideNavComponent {
 
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
-      map(result => result.matches)
+      map((result: BreakpointState) => result.matches)
     );
 
   protected _navLinks: Array<NavLinkModel>;
   
   public SideOpen: boolean;
 
-  @Input() MenuItems: Array<NavLinkModel>;
+  @Input() 
+  MenuItems: Array<NavLinkModel>;
 
   @ViewChild('sidenav', {static: false}) public sidenav: MatSidenav;
-
-
 
   constructor(protected breakpointObserver: BreakpointObserver) {
     this.SideOpen = false;
   }
 
-  public ngOnInit(): void {
-  }
-
-
   public toggleDrawer() {
     if (this.sidenav.opened) {
       this.sidenav.close();
-      this.SideOpen=false
+      this.SideOpen = false;
     } else {
       this.sidenav.open();
       this.SideOpen = true;
