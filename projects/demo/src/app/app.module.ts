@@ -3,16 +3,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-
-import { FathymSharedModule, MaterialModule, FaviconsService, BrowserFavicons, BROWSER_FAVICONS_CONFIG } from '@lcu/common';
-
-
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
+import { MatIconModule, MatSidenavModule } from '@angular/material';
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserAnimationsModule,
@@ -22,52 +19,11 @@ import { FathymSharedModule, MaterialModule, FaviconsService, BrowserFavicons, B
     MaterialModule,
     FormsModule,
     ReactiveFormsModule,
+    MatIconModule,
+    MatSidenavModule,
     LcuHamburgerMenuSideNavModule
   ],
-  providers: [
-  {
-    provide: FaviconsService, useClass: BrowserFavicons
-  },
-  {
-    provide: BROWSER_FAVICONS_CONFIG,
-    useValue: {
-      icons: {
-        'arctic-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_arctic.png'
-        },
-        'cool-candy-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_cool_candy.png'
-        },
-        'flipper-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_flipper.png'
-        },
-        'ice-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_flipper.png'
-        },
-        'white-mint-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_flipper.png'
-        },
-        'contrast-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_circle_red.png',
-          isDefault: true
-        },
-        'sea-green-theme': {
-          type: 'image/png',
-          href: './assets/images/favicons/thinky_arctic.png'
-        },
-      },
-       // determine whether or not a random token is auto-appended to the HREF
-      // values whenever an icon is injected into the document
-      cacheBusting: true
-    }
-  }
-],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -9,11 +9,10 @@ import { NavLinkModel } from 'projects/common/src/lib/models/nav-link.model';
 
 export class NavigationConstants{
     public static readonly MENU_ITEMS: Array<NavLinkModel> = [
-        {Label: 'Home', Url:'/home', Disabled:'false', Icon: 'home',},
-        {Label: 'My Modal', Url:'/home', Disabled:'false', Icon: 'public', Param:'modal' },
-        {Label: 'My Itineraries', Url:'www', Disabled:'true', Icon: 'map'},
-        {Label: 'My Top Lists', Url:'www', Disabled:'true', Icon: 'sort'},
-        {Label: 'My Albums', Url:'www', Disabled:'true', Icon: 'photo_library'},
-        {Label: 'My Friends', Url:'www', Disabled:'true', Icon: 'group'},
-        {Label: 'My Profile', Url:'www', Disabled:'true', Icon: 'person'}];
+        {Label: 'Maps', Url:'/landingPage', Disabled:'false', Icon: 'map',},
+        {Label: 'Iteneraries', Url:'', Disabled:'false', Icon: 'public'},
+        {Label: 'Top Lists', Url:'www', Disabled:'true', Icon: 'sort'},
+        {Label: 'Albums', Url:'www', Disabled:'true', Icon: 'photo_library'},
+        {Label: 'Friends', Url:'www', Disabled:'true', Icon: 'photo_library'},
+        {Label: 'Profile', Url:'www', Disabled:'true', Icon: 'person'}];
 }

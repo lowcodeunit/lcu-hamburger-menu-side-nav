@@ -1,10 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SideNavComponent } from './controls/side-nav/side-nav.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 
@@ -12,12 +10,9 @@ import { MatIconModule } from '@angular/material/icon';
   declarations: [SideNavComponent],
   imports: [
     CommonModule,
-    BrowserAnimationsModule,
     FlexLayoutModule,
     FathymSharedModule,
     MaterialModule,
-    FormsModule,
-    ReactiveFormsModule,
     MatSidenavModule,
     MatIconModule
   ],
