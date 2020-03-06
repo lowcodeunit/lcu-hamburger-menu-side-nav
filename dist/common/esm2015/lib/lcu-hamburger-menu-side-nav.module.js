@@ -1,0 +1,27 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { SideNavComponent } from './controls/side-nav/side-nav.component';
+import { FlexLayoutModule } from '@angular/flex-layout';
+import { FathymSharedModule, MaterialModule } from '@lcu/common';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatIconModule } from '@angular/material/icon';
+let LcuHamburgerMenuSideNavModule = class LcuHamburgerMenuSideNavModule {
+};
+LcuHamburgerMenuSideNavModule = __decorate([
+    NgModule({
+        declarations: [SideNavComponent],
+        imports: [
+            CommonModule,
+            FlexLayoutModule,
+            FathymSharedModule,
+            MaterialModule,
+            MatSidenavModule,
+            MatIconModule
+        ],
+        exports: [SideNavComponent],
+        entryComponents: [SideNavComponent]
+    })
+], LcuHamburgerMenuSideNavModule);
+export { LcuHamburgerMenuSideNavModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGN1LWhhbWJ1cmdlci1tZW51LXNpZGUtbmF2Lm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0Bsb3djb2RldW5pdC9sY3UtaGFtYnVyZ2VyLW1lbnUtc2lkZS1uYXYtY29tbW9uLyIsInNvdXJjZXMiOlsibGliL2xjdS1oYW1idXJnZXItbWVudS1zaWRlLW5hdi5tb2R1bGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLE9BQU8sRUFBRSxRQUFRLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFDekMsT0FBTyxFQUFFLFlBQVksRUFBRSxNQUFNLGlCQUFpQixDQUFDO0FBQy9DLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHdDQUF3QyxDQUFDO0FBQzFFLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHNCQUFzQixDQUFDO0FBQ3hELE9BQU8sRUFBRSxrQkFBa0IsRUFBRSxjQUFjLEVBQUUsTUFBTSxhQUFhLENBQUM7QUFDakUsT0FBTyxFQUFFLGdCQUFnQixFQUFFLE1BQU0sMkJBQTJCLENBQUM7QUFDN0QsT0FBTyxFQUFFLGFBQWEsRUFBRSxNQUFNLHdCQUF3QixDQUFDO0FBZXZELElBQWEsNkJBQTZCLEdBQTFDLE1BQWEsNkJBQTZCO0NBQUksQ0FBQTtBQUFqQyw2QkFBNkI7SUFiekMsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsZ0JBQWdCLENBQUM7UUFDaEMsT0FBTyxFQUFFO1lBQ1AsWUFBWTtZQUNaLGdCQUFnQjtZQUNoQixrQkFBa0I7WUFDbEIsY0FBYztZQUNkLGdCQUFnQjtZQUNoQixhQUFhO1NBQ2Q7UUFDRCxPQUFPLEVBQUUsQ0FBQyxnQkFBZ0IsQ0FBQztRQUMzQixlQUFlLEVBQUUsQ0FBQyxnQkFBZ0IsQ0FBQztLQUNwQyxDQUFDO0dBQ1csNkJBQTZCLENBQUk7U0FBakMsNkJBQTZCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcclxuaW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJztcclxuaW1wb3J0IHsgU2lkZU5hdkNvbXBvbmVudCB9IGZyb20gJy4vY29udHJvbHMvc2lkZS1uYXYvc2lkZS1uYXYuY29tcG9uZW50JztcclxuaW1wb3J0IHsgRmxleExheW91dE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2ZsZXgtbGF5b3V0JztcclxuaW1wb3J0IHsgRmF0aHltU2hhcmVkTW9kdWxlLCBNYXRlcmlhbE1vZHVsZSB9IGZyb20gJ0BsY3UvY29tbW9uJztcclxuaW1wb3J0IHsgTWF0U2lkZW5hdk1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsL3NpZGVuYXYnO1xyXG5pbXBvcnQgeyBNYXRJY29uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvbWF0ZXJpYWwvaWNvbic7XHJcblxyXG5ATmdNb2R1bGUoe1xyXG4gIGRlY2xhcmF0aW9uczogW1NpZGVOYXZDb21wb25lbnRdLFxyXG4gIGltcG9ydHM6IFtcclxuICAgIENvbW1vbk1vZHVsZSxcclxuICAgIEZsZXhMYXlvdXRNb2R1bGUsXHJcbiAgICBGYXRoeW1TaGFyZWRNb2R1bGUsXHJcbiAgICBNYXRlcmlhbE1vZHVsZSxcclxuICAgIE1hdFNpZGVuYXZNb2R1bGUsXHJcbiAgICBNYXRJY29uTW9kdWxlXHJcbiAgXSxcclxuICBleHBvcnRzOiBbU2lkZU5hdkNvbXBvbmVudF0sXHJcbiAgZW50cnlDb21wb25lbnRzOiBbU2lkZU5hdkNvbXBvbmVudF1cclxufSlcclxuZXhwb3J0IGNsYXNzIExjdUhhbWJ1cmdlck1lbnVTaWRlTmF2TW9kdWxlIHsgfVxyXG4iXX0=

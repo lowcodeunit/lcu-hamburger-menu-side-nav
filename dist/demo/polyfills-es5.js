@@ -7,9 +7,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["polyfills-es5"], {
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/es/date/index.js":
-  /*!*****************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/date/index.js ***!
-    \*****************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/date/index.js ***!
+    \******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -45,9 +45,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/es/math/index.js":
-  /*!*****************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/math/index.js ***!
-    \*****************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/math/index.js ***!
+    \******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -135,9 +135,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/es/number/index.js":
-  /*!*******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/number/index.js ***!
-    \*******************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/number/index.js ***!
+    \********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -201,9 +201,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/es/symbol/index.js":
-  /*!*******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/symbol/index.js ***!
-    \*******************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/es/symbol/index.js ***!
+    \********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -295,9 +295,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-function.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-function.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-function.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -316,9 +316,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-possible-prototype.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-possible-prototype.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-possible-prototype.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -341,9 +341,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/add-to-unscopables.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/add-to-unscopables.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/add-to-unscopables.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -382,9 +382,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/advance-string-index.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/advance-string-index.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/advance-string-index.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -407,9 +407,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-instance.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-instance.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-instance.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -428,9 +428,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-object.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-object.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/an-object.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -453,9 +453,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-copy-within.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-copy-within.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-copy-within.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -511,9 +511,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-fill.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-fill.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-fill.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -557,9 +557,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-for-each.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-for-each.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-for-each.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -571,13 +571,19 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-iteration */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js").forEach;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js"); // `Array.prototype.forEach` method implementation
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
+
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var STRICT_METHOD = arrayMethodIsStrict('forEach');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('forEach'); // `Array.prototype.forEach` method implementation
     // https://tc39.github.io/ecma262/#sec-array.prototype.foreach
 
-
-    module.exports = sloppyArrayMethod('forEach') ? function forEach(callbackfn
+    module.exports = !STRICT_METHOD || !USES_TO_LENGTH ? function forEach(callbackfn
     /* , thisArg */
     ) {
       return $forEach(this, callbackfn, arguments.length > 1 ? arguments[1] : undefined);
@@ -587,9 +593,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-from.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-from.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-from.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -598,8 +604,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "use strict";
 
     var bind = __webpack_require__(
-    /*! ../internals/bind-context */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js");
+    /*! ../internals/function-bind-context */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js");
 
     var toObject = __webpack_require__(
     /*! ../internals/to-object */
@@ -635,9 +641,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       var argumentsLength = arguments.length;
       var mapfn = argumentsLength > 1 ? arguments[1] : undefined;
       var mapping = mapfn !== undefined;
-      var index = 0;
       var iteratorMethod = getIteratorMethod(O);
-      var length, result, step, iterator, next;
+      var index = 0;
+      var length, result, step, iterator, next, value;
       if (mapping) mapfn = bind(mapfn, argumentsLength > 2 ? arguments[2] : undefined, 2); // if the target is not iterable or it's an array with the default iterator - use a simple case
 
       if (iteratorMethod != undefined && !(C == Array && isArrayIteratorMethod(iteratorMethod))) {
@@ -646,14 +652,16 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         result = new C();
 
         for (; !(step = next.call(iterator)).done; index++) {
-          createProperty(result, index, mapping ? callWithSafeIterationClosing(iterator, mapfn, [step.value, index], true) : step.value);
+          value = mapping ? callWithSafeIterationClosing(iterator, mapfn, [step.value, index], true) : step.value;
+          createProperty(result, index, value);
         }
       } else {
         length = toLength(O.length);
         result = new C(length);
 
         for (; length > index; index++) {
-          createProperty(result, index, mapping ? mapfn(O[index], index) : O[index]);
+          value = mapping ? mapfn(O[index], index) : O[index];
+          createProperty(result, index, value);
         }
       }
 
@@ -666,9 +674,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-includes.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-includes.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-includes.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -719,17 +727,17 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
   function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsArrayIterationJs(module, exports, __webpack_require__) {
     var bind = __webpack_require__(
-    /*! ../internals/bind-context */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js");
+    /*! ../internals/function-bind-context */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js");
 
     var IndexedObject = __webpack_require__(
     /*! ../internals/indexed-object */
@@ -826,9 +834,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-last-index-of.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-last-index-of.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-last-index-of.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -848,17 +856,27 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/to-length */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-length.js");
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js");
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
+
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
 
     var min = Math.min;
     var nativeLastIndexOf = [].lastIndexOf;
     var NEGATIVE_ZERO = !!nativeLastIndexOf && 1 / [1].lastIndexOf(1, -0) < 0;
-    var SLOPPY_METHOD = sloppyArrayMethod('lastIndexOf'); // `Array.prototype.lastIndexOf` method implementation
+    var STRICT_METHOD = arrayMethodIsStrict('lastIndexOf'); // For preventing possible almost infinite loop in non-standard implementations, test the forward version of the method
+
+    var USES_TO_LENGTH = arrayMethodUsesToLength('indexOf', {
+      ACCESSORS: true,
+      1: 0
+    });
+    var FORCED = NEGATIVE_ZERO || !STRICT_METHOD || !USES_TO_LENGTH; // `Array.prototype.lastIndexOf` method implementation
     // https://tc39.github.io/ecma262/#sec-array.prototype.lastindexof
 
-    module.exports = NEGATIVE_ZERO || SLOPPY_METHOD ? function lastIndexOf(searchElement
+    module.exports = FORCED ? function lastIndexOf(searchElement
     /* , fromIndex = @[*-1] */
     ) {
       // convert -0 to +0
@@ -880,9 +898,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js":
-  /*!**********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js ***!
-    \**********************************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js ***!
+    \***********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -897,8 +915,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
     var V8_VERSION = __webpack_require__(
-    /*! ../internals/v8-version */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/v8-version.js");
+    /*! ../internals/engine-v8-version */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-v8-version.js");
 
     var SPECIES = wellKnownSymbol('species');
 
@@ -924,10 +942,91 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js":
+  /*!*************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js ***!
+    \*************************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsArrayMethodIsStrictJs(module, exports, __webpack_require__) {
+    "use strict";
+
+    var fails = __webpack_require__(
+    /*! ../internals/fails */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
+
+    module.exports = function (METHOD_NAME, argument) {
+      var method = [][METHOD_NAME];
+      return !!method && fails(function () {
+        // eslint-disable-next-line no-useless-call,no-throw-literal
+        method.call(null, argument || function () {
+          throw 1;
+        }, 1);
+      });
+    };
+    /***/
+
+  },
+
+  /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js":
+  /*!******************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js ***!
+    \******************************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsArrayMethodUsesToLengthJs(module, exports, __webpack_require__) {
+    var DESCRIPTORS = __webpack_require__(
+    /*! ../internals/descriptors */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/descriptors.js");
+
+    var fails = __webpack_require__(
+    /*! ../internals/fails */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
+
+    var has = __webpack_require__(
+    /*! ../internals/has */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/has.js");
+
+    var defineProperty = Object.defineProperty;
+    var cache = {};
+
+    var thrower = function thrower(it) {
+      throw it;
+    };
+
+    module.exports = function (METHOD_NAME, options) {
+      if (has(cache, METHOD_NAME)) return cache[METHOD_NAME];
+      if (!options) options = {};
+      var method = [][METHOD_NAME];
+      var ACCESSORS = has(options, 'ACCESSORS') ? options.ACCESSORS : false;
+      var argument0 = has(options, 0) ? options[0] : thrower;
+      var argument1 = has(options, 1) ? options[1] : undefined;
+      return cache[METHOD_NAME] = !!method && !fails(function () {
+        if (ACCESSORS && !DESCRIPTORS) return true;
+        var O = {
+          length: -1
+        };
+        if (ACCESSORS) defineProperty(O, 1, {
+          enumerable: true,
+          get: thrower
+        });else O[1] = 1;
+        method.call(O, argument0, argument1);
+      });
+    };
+    /***/
+
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-reduce.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-reduce.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-reduce.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -995,9 +1094,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-species-create.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-species-create.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-species-create.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1037,61 +1136,10 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js ***!
-    \**************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsBindContextJs(module, exports, __webpack_require__) {
-    var aFunction = __webpack_require__(
-    /*! ../internals/a-function */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-function.js"); // optional / simple context binding
-
-
-    module.exports = function (fn, that, length) {
-      aFunction(fn);
-      if (that === undefined) return fn;
-
-      switch (length) {
-        case 0:
-          return function () {
-            return fn.call(that);
-          };
-
-        case 1:
-          return function (a) {
-            return fn.call(that, a);
-          };
-
-        case 2:
-          return function (a, b) {
-            return fn.call(that, a, b);
-          };
-
-        case 3:
-          return function (a, b, c) {
-            return fn.call(that, a, b, c);
-          };
-      }
-
-      return function ()
-      /* ...args */
-      {
-        return fn.apply(that, arguments);
-      };
-    };
-    /***/
-
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/call-with-safe-iteration-closing.js":
-  /*!**********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
-    \**********************************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
+    \***********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1117,9 +1165,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/check-correctness-of-iteration.js":
-  /*!********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
-    \********************************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
+    \*********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1187,9 +1235,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof-raw.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof-raw.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof-raw.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1206,9 +1254,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof.js":
-  /*!*********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof.js ***!
-    \*********************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof.js ***!
+    \**********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1253,9 +1301,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-strong.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-strong.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-strong.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1276,8 +1324,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine-all.js");
 
     var bind = __webpack_require__(
-    /*! ../internals/bind-context */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js");
+    /*! ../internals/function-bind-context */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js");
 
     var anInstance = __webpack_require__(
     /*! ../internals/an-instance */
@@ -1505,9 +1553,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-weak.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-weak.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection-weak.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1660,9 +1708,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/collection.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1814,9 +1862,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/copy-constructor-properties.js":
-  /*!*****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/copy-constructor-properties.js ***!
-    \*****************************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/copy-constructor-properties.js ***!
+    \******************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1854,9 +1902,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-is-regexp-logic.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-is-regexp-logic.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-is-regexp-logic.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1890,9 +1938,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-prototype-getter.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-prototype-getter.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/correct-prototype-getter.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1915,9 +1963,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1942,9 +1990,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-iterator-constructor.js":
-  /*!*****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-iterator-constructor.js ***!
-    \*****************************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-iterator-constructor.js ***!
+    \******************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1991,9 +2039,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-non-enumerable-property.js":
-  /*!********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-non-enumerable-property.js ***!
-    \********************************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-non-enumerable-property.js ***!
+    \*********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2022,9 +2070,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property-descriptor.js":
-  /*!****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property-descriptor.js ***!
-    \****************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property-descriptor.js ***!
+    \*****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2044,9 +2092,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2076,9 +2124,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-iso-string.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-iso-string.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-iso-string.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2118,9 +2166,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-primitive.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-primitive.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/date-to-primitive.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2149,9 +2197,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-iterator.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-iterator.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-iterator.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2310,9 +2358,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-well-known-symbol.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-well-known-symbol.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/define-well-known-symbol.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2327,8 +2375,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/has.js");
 
     var wrappedWellKnownSymbolModule = __webpack_require__(
-    /*! ../internals/wrapped-well-known-symbol */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/wrapped-well-known-symbol.js");
+    /*! ../internals/well-known-symbol-wrapped */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol-wrapped.js");
 
     var defineProperty = __webpack_require__(
     /*! ../internals/object-define-property */
@@ -2346,9 +2394,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/descriptors.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/descriptors.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/descriptors.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2360,20 +2408,20 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
 
     module.exports = !fails(function () {
-      return Object.defineProperty({}, 'a', {
+      return Object.defineProperty({}, 1, {
         get: function get() {
           return 7;
         }
-      }).a != 7;
+      })[1] != 7;
     });
     /***/
   },
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/document-create-element.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/document-create-element.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/document-create-element.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2400,9 +2448,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/dom-iterables.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/dom-iterables.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/dom-iterables.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2447,10 +2495,85 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-is-ios.js":
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-is-ios.js ***!
+    \****************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsEngineIsIosJs(module, exports, __webpack_require__) {
+    var userAgent = __webpack_require__(
+    /*! ../internals/engine-user-agent */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-user-agent.js");
+
+    module.exports = /(iphone|ipod|ipad).*applewebkit/i.test(userAgent);
+    /***/
+  },
+
+  /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-user-agent.js":
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-user-agent.js ***!
+    \********************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsEngineUserAgentJs(module, exports, __webpack_require__) {
+    var getBuiltIn = __webpack_require__(
+    /*! ../internals/get-built-in */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-built-in.js");
+
+    module.exports = getBuiltIn('navigator', 'userAgent') || '';
+    /***/
+  },
+
+  /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-v8-version.js":
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-v8-version.js ***!
+    \********************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsEngineV8VersionJs(module, exports, __webpack_require__) {
+    var global = __webpack_require__(
+    /*! ../internals/global */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
+
+    var userAgent = __webpack_require__(
+    /*! ../internals/engine-user-agent */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-user-agent.js");
+
+    var process = global.process;
+    var versions = process && process.versions;
+    var v8 = versions && versions.v8;
+    var match, version;
+
+    if (v8) {
+      match = v8.split('.');
+      version = match[0] + match[1];
+    } else if (userAgent) {
+      match = userAgent.match(/Edge\/(\d+)/);
+
+      if (!match || match[1] >= 74) {
+        match = userAgent.match(/Chrome\/(\d+)/);
+        if (match) version = match[1];
+      }
+    }
+
+    module.exports = version && +version;
+    /***/
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/enum-bug-keys.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/enum-bug-keys.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/enum-bug-keys.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2463,9 +2586,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js":
-  /*!********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js ***!
-    \********************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js ***!
+    \*********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2558,9 +2681,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js":
-  /*!*******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js ***!
-    \*******************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js ***!
+    \********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2579,15 +2702,19 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js":
-  /*!************************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js ***!
-    \************************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js ***!
+    \*************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
   function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsFixRegexpWellKnownSymbolLogicJs(module, exports, __webpack_require__) {
-    "use strict";
+    "use strict"; // TODO: Remove from `core-js@4` since it's moved to entry points
+
+    __webpack_require__(
+    /*! ../modules/es.regexp.exec */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.exec.js");
 
     var redefine = __webpack_require__(
     /*! ../internals/redefine */
@@ -2630,6 +2757,16 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
     var REPLACE_KEEPS_$0 = function () {
       return 'a'.replace(/./, '$0') === '$0';
+    }();
+
+    var REPLACE = wellKnownSymbol('replace'); // Safari <= 13.0.3(?) substitutes nth capture where n>m with an empty string
+
+    var REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE = function () {
+      if (/./[REPLACE]) {
+        return /./[REPLACE]('a', '$0') === '';
+      }
+
+      return false;
     }(); // Chrome 51 has a buggy "split" implementation when RegExp#exec !== nativeExec
     // Weex JS has frozen built-in prototypes, so use try / catch wrapper
 
@@ -2689,7 +2826,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         return !execCalled;
       });
 
-      if (!DELEGATES_TO_SYMBOL || !DELEGATES_TO_EXEC || KEY === 'replace' && !(REPLACE_SUPPORTS_NAMED_GROUPS && REPLACE_KEEPS_$0) || KEY === 'split' && !SPLIT_WORKS_WITH_OVERWRITTEN_EXEC) {
+      if (!DELEGATES_TO_SYMBOL || !DELEGATES_TO_EXEC || KEY === 'replace' && !(REPLACE_SUPPORTS_NAMED_GROUPS && REPLACE_KEEPS_$0 && !REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE) || KEY === 'split' && !SPLIT_WORKS_WITH_OVERWRITTEN_EXEC) {
         var nativeRegExpMethod = /./[SYMBOL];
         var methods = exec(SYMBOL, ''[KEY], function (nativeMethod, regexp, str, arg2, forceStringMethod) {
           if (regexp.exec === regexpExec) {
@@ -2713,7 +2850,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
             done: false
           };
         }, {
-          REPLACE_KEEPS_$0: REPLACE_KEEPS_$0
+          REPLACE_KEEPS_$0: REPLACE_KEEPS_$0,
+          REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE: REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE
         });
         var stringMethod = methods[0];
         var regexMethod = methods[1];
@@ -2736,66 +2874,10 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js":
-  /*!***************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js ***!
-    \***************************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsForcedStringHtmlMethodJs(module, exports, __webpack_require__) {
-    var fails = __webpack_require__(
-    /*! ../internals/fails */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js"); // check the existence of a method, lowercase
-    // of a tag and escaping quotes in arguments
-
-
-    module.exports = function (METHOD_NAME) {
-      return fails(function () {
-        var test = ''[METHOD_NAME]('"');
-        return test !== test.toLowerCase() || test.split('"').length > 3;
-      });
-    };
-    /***/
-
-  },
-
-  /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-trim-method.js":
-  /*!***************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-trim-method.js ***!
-    \***************************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsForcedStringTrimMethodJs(module, exports, __webpack_require__) {
-    var fails = __webpack_require__(
-    /*! ../internals/fails */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
-
-    var whitespaces = __webpack_require__(
-    /*! ../internals/whitespaces */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
-
-    var non = "\u200B\x85\u180E"; // check that a method works with the correct list
-    // of whitespaces and has a correct name
-
-    module.exports = function (METHOD_NAME) {
-      return fails(function () {
-        return !!whitespaces[METHOD_NAME]() || non[METHOD_NAME]() != non || whitespaces[METHOD_NAME].name !== METHOD_NAME;
-      });
-    };
-    /***/
-
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/freezing.js":
-  /*!**********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/freezing.js ***!
-    \**********************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/freezing.js ***!
+    \***********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2812,10 +2894,61 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js":
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js ***!
+    \************************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsFunctionBindContextJs(module, exports, __webpack_require__) {
+    var aFunction = __webpack_require__(
+    /*! ../internals/a-function */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/a-function.js"); // optional / simple context binding
+
+
+    module.exports = function (fn, that, length) {
+      aFunction(fn);
+      if (that === undefined) return fn;
+
+      switch (length) {
+        case 0:
+          return function () {
+            return fn.call(that);
+          };
+
+        case 1:
+          return function (a) {
+            return fn.call(that, a);
+          };
+
+        case 2:
+          return function (a, b) {
+            return fn.call(that, a, b);
+          };
+
+        case 3:
+          return function (a, b, c) {
+            return fn.call(that, a, b, c);
+          };
+      }
+
+      return function ()
+      /* ...args */
+      {
+        return fn.apply(that, arguments);
+      };
+    };
+    /***/
+
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2871,9 +3004,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-built-in.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-built-in.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-built-in.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2900,9 +3033,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-iterator-method.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-iterator-method.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-iterator-method.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2931,9 +3064,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js":
-  /*!********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js ***!
-    \********************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js ***!
+    \*********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2952,9 +3085,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/has.js":
-  /*!*****************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/has.js ***!
-    \*****************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/has.js ***!
+    \******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2971,9 +3104,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/hidden-keys.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/hidden-keys.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/hidden-keys.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2985,9 +3118,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/host-report-errors.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/host-report-errors.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/host-report-errors.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3010,9 +3143,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/html.js":
-  /*!******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/html.js ***!
-    \******************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/html.js ***!
+    \*******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3028,9 +3161,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/ie8-dom-define.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/ie8-dom-define.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/ie8-dom-define.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3061,9 +3194,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/indexed-object.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/indexed-object.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/indexed-object.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3091,9 +3224,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inherit-if-required.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inherit-if-required.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inherit-if-required.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3121,9 +3254,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inspect-source.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inspect-source.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/inspect-source.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3147,9 +3280,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-metadata.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-metadata.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-metadata.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3244,9 +3377,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-state.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-state.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/internal-state.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3347,9 +3480,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array-iterator-method.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array-iterator-method.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array-iterator-method.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3375,9 +3508,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array.js":
-  /*!**********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array.js ***!
-    \**********************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-array.js ***!
+    \***********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3398,9 +3531,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-forced.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-forced.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-forced.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3430,9 +3563,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-integer.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-integer.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-integer.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3453,28 +3586,10 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-ios.js":
-  /*!********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-ios.js ***!
-    \********************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsIsIosJs(module, exports, __webpack_require__) {
-    var userAgent = __webpack_require__(
-    /*! ../internals/user-agent */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/user-agent.js");
-
-    module.exports = /(iphone|ipod|ipad).*applewebkit/i.test(userAgent);
-    /***/
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-object.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-object.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-object.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3489,9 +3604,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-pure.js":
-  /*!*********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-pure.js ***!
-    \*********************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-pure.js ***!
+    \**********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3503,9 +3618,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-regexp.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-regexp.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-regexp.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3536,9 +3651,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterate.js":
-  /*!*********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterate.js ***!
-    \*********************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterate.js ***!
+    \**********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3557,8 +3672,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-length.js");
 
     var bind = __webpack_require__(
-    /*! ../internals/bind-context */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js");
+    /*! ../internals/function-bind-context */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js");
 
     var getIteratorMethod = __webpack_require__(
     /*! ../internals/get-iterator-method */
@@ -3614,9 +3729,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators-core.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators-core.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators-core.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3679,9 +3794,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/iterators.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3693,9 +3808,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-expm1.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-expm1.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-expm1.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3715,9 +3830,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-fround.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-fround.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-fround.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3757,9 +3872,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-log1p.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-log1p.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-log1p.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3777,9 +3892,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-sign.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-sign.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/math-sign.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3797,9 +3912,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/microtask.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/microtask.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/microtask.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3822,8 +3937,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/task.js").set;
 
     var IS_IOS = __webpack_require__(
-    /*! ../internals/is-ios */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-ios.js");
+    /*! ../internals/engine-is-ios */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-is-ios.js");
 
     var MutationObserver = global.MutationObserver || global.WebKitMutationObserver;
     var process = global.process;
@@ -3914,9 +4029,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-promise-constructor.js":
-  /*!****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-promise-constructor.js ***!
-    \****************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-promise-constructor.js ***!
+    \*****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3932,9 +4047,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-symbol.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-symbol.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-symbol.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3954,9 +4069,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-weak-map.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-weak-map.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/native-weak-map.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3977,9 +4092,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/new-promise-capability.js":
-  /*!************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/new-promise-capability.js ***!
-    \************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/new-promise-capability.js ***!
+    \*************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4012,9 +4127,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/not-a-regexp.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/not-a-regexp.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/not-a-regexp.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4037,9 +4152,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-is-finite.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-is-finite.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-is-finite.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4060,10 +4175,78 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-float.js":
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-float.js ***!
+    \*********************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsNumberParseFloatJs(module, exports, __webpack_require__) {
+    var global = __webpack_require__(
+    /*! ../internals/global */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
+
+    var trim = __webpack_require__(
+    /*! ../internals/string-trim */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js").trim;
+
+    var whitespaces = __webpack_require__(
+    /*! ../internals/whitespaces */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
+
+    var $parseFloat = global.parseFloat;
+    var FORCED = 1 / $parseFloat(whitespaces + '-0') !== -Infinity; // `parseFloat` method
+    // https://tc39.github.io/ecma262/#sec-parsefloat-string
+
+    module.exports = FORCED ? function parseFloat(string) {
+      var trimmedString = trim(String(string));
+      var result = $parseFloat(trimmedString);
+      return result === 0 && trimmedString.charAt(0) == '-' ? -0 : result;
+    } : $parseFloat;
+    /***/
+  },
+
+  /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-int.js":
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-int.js ***!
+    \*******************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsNumberParseIntJs(module, exports, __webpack_require__) {
+    var global = __webpack_require__(
+    /*! ../internals/global */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
+
+    var trim = __webpack_require__(
+    /*! ../internals/string-trim */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js").trim;
+
+    var whitespaces = __webpack_require__(
+    /*! ../internals/whitespaces */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
+
+    var $parseInt = global.parseInt;
+    var hex = /^[+-]?0[Xx]/;
+    var FORCED = $parseInt(whitespaces + '08') !== 8 || $parseInt(whitespaces + '0x16') !== 22; // `parseInt` method
+    // https://tc39.github.io/ecma262/#sec-parseint-string-radix
+
+    module.exports = FORCED ? function parseInt(string, radix) {
+      var S = trim(String(string));
+      return $parseInt(S, radix >>> 0 || (hex.test(S) ? 16 : 10));
+    } : $parseInt;
+    /***/
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-assign.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-assign.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-assign.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4157,9 +4340,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-create.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-create.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-create.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4281,9 +4464,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-properties.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-properties.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-properties.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4325,9 +4508,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-property.js":
-  /*!************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-property.js ***!
-    \************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-define-property.js ***!
+    \*************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4370,9 +4553,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-descriptor.js":
-  /*!************************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
-    \************************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
+    \*************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4424,9 +4607,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names-external.js":
-  /*!****************************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names-external.js ***!
-    \****************************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names-external.js ***!
+    \*****************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4461,9 +4644,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names.js":
-  /*!*******************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names.js ***!
-    \*******************************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-names.js ***!
+    \********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4489,9 +4672,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-symbols.js":
-  /*!*********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
-    \*********************************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
+    \**********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4503,9 +4686,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-prototype-of.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-prototype-of.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-get-prototype-of.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4546,9 +4729,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys-internal.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys-internal.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys-internal.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4595,9 +4778,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-keys.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4622,9 +4805,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-property-is-enumerable.js":
-  /*!*******************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-property-is-enumerable.js ***!
-    \*******************************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-property-is-enumerable.js ***!
+    \********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4649,9 +4832,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-set-prototype-of.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-set-prototype-of.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-set-prototype-of.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4695,9 +4878,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-to-string.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-to-string.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/object-to-string.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4723,9 +4906,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/own-keys.js":
-  /*!**********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/own-keys.js ***!
-    \**********************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/own-keys.js ***!
+    \***********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4758,78 +4941,10 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-float.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-float.js ***!
-    \*************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsParseFloatJs(module, exports, __webpack_require__) {
-    var global = __webpack_require__(
-    /*! ../internals/global */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
-
-    var trim = __webpack_require__(
-    /*! ../internals/string-trim */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js").trim;
-
-    var whitespaces = __webpack_require__(
-    /*! ../internals/whitespaces */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
-
-    var nativeParseFloat = global.parseFloat;
-    var FORCED = 1 / nativeParseFloat(whitespaces + '-0') !== -Infinity; // `parseFloat` method
-    // https://tc39.github.io/ecma262/#sec-parsefloat-string
-
-    module.exports = FORCED ? function parseFloat(string) {
-      var trimmedString = trim(String(string));
-      var result = nativeParseFloat(trimmedString);
-      return result === 0 && trimmedString.charAt(0) == '-' ? -0 : result;
-    } : nativeParseFloat;
-    /***/
-  },
-
-  /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-int.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-int.js ***!
-    \***********************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsParseIntJs(module, exports, __webpack_require__) {
-    var global = __webpack_require__(
-    /*! ../internals/global */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
-
-    var trim = __webpack_require__(
-    /*! ../internals/string-trim */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js").trim;
-
-    var whitespaces = __webpack_require__(
-    /*! ../internals/whitespaces */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
-
-    var nativeParseInt = global.parseInt;
-    var hex = /^[+-]?0[Xx]/;
-    var FORCED = nativeParseInt(whitespaces + '08') !== 8 || nativeParseInt(whitespaces + '0x16') !== 22; // `parseInt` method
-    // https://tc39.github.io/ecma262/#sec-parseint-string-radix
-
-    module.exports = FORCED ? function parseInt(string, radix) {
-      var S = trim(String(string));
-      return nativeParseInt(S, radix >>> 0 || (hex.test(S) ? 16 : 10));
-    } : nativeParseInt;
-    /***/
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/path.js":
-  /*!******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/path.js ***!
-    \******************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/path.js ***!
+    \*******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4845,9 +4960,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/perform.js":
-  /*!*********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/perform.js ***!
-    \*********************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/perform.js ***!
+    \**********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4872,9 +4987,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/promise-resolve.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/promise-resolve.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/promise-resolve.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4906,9 +5021,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine-all.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine-all.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine-all.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4931,9 +5046,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine.js":
-  /*!**********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine.js ***!
-    \**********************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/redefine.js ***!
+    \***********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4994,9 +5109,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec-abstract.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec-abstract.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec-abstract.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5037,9 +5152,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5143,9 +5258,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-flags.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-flags.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-flags.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5176,9 +5291,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-sticky-helpers.js":
-  /*!***********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-sticky-helpers.js ***!
-    \***********************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-sticky-helpers.js ***!
+    \************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5213,9 +5328,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/require-object-coercible.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/require-object-coercible.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/require-object-coercible.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5233,9 +5348,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/same-value.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/same-value.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/same-value.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5253,9 +5368,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-global.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-global.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-global.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5284,9 +5399,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-species.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-species.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-species.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5331,9 +5446,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-to-string-tag.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-to-string-tag.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/set-to-string-tag.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5367,9 +5482,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-key.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-key.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-key.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5394,9 +5509,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-store.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-store.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared-store.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5418,9 +5533,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared.js":
-  /*!********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared.js ***!
-    \********************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/shared.js ***!
+    \*********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5437,47 +5552,18 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     (module.exports = function (key, value) {
       return store[key] || (store[key] = value !== undefined ? value : {});
     })('versions', []).push({
-      version: '3.6.0',
+      version: '3.6.4',
       mode: IS_PURE ? 'pure' : 'global',
-      copyright: '© 2019 Denis Pushkarev (zloirock.ru)'
+      copyright: '© 2020 Denis Pushkarev (zloirock.ru)'
     });
     /***/
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js ***!
-    \*********************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsSloppyArrayMethodJs(module, exports, __webpack_require__) {
-    "use strict";
-
-    var fails = __webpack_require__(
-    /*! ../internals/fails */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
-
-    module.exports = function (METHOD_NAME, argument) {
-      var method = [][METHOD_NAME];
-      return !method || !fails(function () {
-        // eslint-disable-next-line no-useless-call,no-throw-literal
-        method.call(null, argument || function () {
-          throw 1;
-        }, 1);
-      });
-    };
-    /***/
-
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/species-constructor.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/species-constructor.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/species-constructor.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5508,10 +5594,36 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js":
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js ***!
+    \*********************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsStringHtmlForcedJs(module, exports, __webpack_require__) {
+    var fails = __webpack_require__(
+    /*! ../internals/fails */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js"); // check the existence of a method, lowercase
+    // of a tag and escaping quotes in arguments
+
+
+    module.exports = function (METHOD_NAME) {
+      return fails(function () {
+        var test = ''[METHOD_NAME]('"');
+        return test !== test.toLowerCase() || test.split('"').length > 3;
+      });
+    };
+    /***/
+
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-multibyte.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-multibyte.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-multibyte.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5551,9 +5663,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-pad.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-pad.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-pad.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5602,9 +5714,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-repeat.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-repeat.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-repeat.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5639,10 +5751,40 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim-forced.js":
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim-forced.js ***!
+    \*********************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsStringTrimForcedJs(module, exports, __webpack_require__) {
+    var fails = __webpack_require__(
+    /*! ../internals/fails */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
+
+    var whitespaces = __webpack_require__(
+    /*! ../internals/whitespaces */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js");
+
+    var non = "\u200B\x85\u180E"; // check that a method works with the correct list
+    // of whitespaces and has a correct name
+
+    module.exports = function (METHOD_NAME) {
+      return fails(function () {
+        return !!whitespaces[METHOD_NAME]() || non[METHOD_NAME]() != non || whitespaces[METHOD_NAME].name !== METHOD_NAME;
+      });
+    };
+    /***/
+
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5685,9 +5827,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/task.js":
-  /*!******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/task.js ***!
-    \******************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/task.js ***!
+    \*******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5706,8 +5848,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/classof-raw.js");
 
     var bind = __webpack_require__(
-    /*! ../internals/bind-context */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/bind-context.js");
+    /*! ../internals/function-bind-context */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/function-bind-context.js");
 
     var html = __webpack_require__(
     /*! ../internals/html */
@@ -5718,8 +5860,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/document-create-element.js");
 
     var IS_IOS = __webpack_require__(
-    /*! ../internals/is-ios */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/is-ios.js");
+    /*! ../internals/engine-is-ios */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-is-ios.js");
 
     var location = global.location;
     var set = global.setImmediate;
@@ -5824,9 +5966,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/this-number-value.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/this-number-value.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/this-number-value.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5851,9 +5993,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-absolute-index.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-absolute-index.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-absolute-index.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5878,9 +6020,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-indexed-object.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-indexed-object.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-indexed-object.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5904,9 +6046,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-integer.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-integer.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-integer.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5925,9 +6067,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-length.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-length.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-length.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5949,9 +6091,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-object.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-object.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-object.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5972,9 +6114,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-primitive.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-primitive.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-primitive.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6002,9 +6144,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-string-tag-support.js":
-  /*!***********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-string-tag-support.js ***!
-    \***********************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-string-tag-support.js ***!
+    \************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6023,9 +6165,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/uid.js":
-  /*!*****************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/uid.js ***!
-    \*****************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/uid.js ***!
+    \******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6043,9 +6185,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/use-symbol-as-uid.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/use-symbol-as-uid.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/use-symbol-as-uid.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6057,72 +6199,33 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
     module.exports = NATIVE_SYMBOL // eslint-disable-next-line no-undef
     && !Symbol.sham // eslint-disable-next-line no-undef
-    && typeof Symbol() == 'symbol';
+    && typeof Symbol.iterator == 'symbol';
     /***/
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/user-agent.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/user-agent.js ***!
-    \************************************************************************************************************************************************************************************/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol-wrapped.js":
+  /*!****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol-wrapped.js ***!
+    \****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsUserAgentJs(module, exports, __webpack_require__) {
-    var getBuiltIn = __webpack_require__(
-    /*! ../internals/get-built-in */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/get-built-in.js");
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsWellKnownSymbolWrappedJs(module, exports, __webpack_require__) {
+    var wellKnownSymbol = __webpack_require__(
+    /*! ../internals/well-known-symbol */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
-    module.exports = getBuiltIn('navigator', 'userAgent') || '';
-    /***/
-  },
-
-  /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/v8-version.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/v8-version.js ***!
-    \************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsV8VersionJs(module, exports, __webpack_require__) {
-    var global = __webpack_require__(
-    /*! ../internals/global */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/global.js");
-
-    var userAgent = __webpack_require__(
-    /*! ../internals/user-agent */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/user-agent.js");
-
-    var process = global.process;
-    var versions = process && process.versions;
-    var v8 = versions && versions.v8;
-    var match, version;
-
-    if (v8) {
-      match = v8.split('.');
-      version = match[0] + match[1];
-    } else if (userAgent) {
-      match = userAgent.match(/Edge\/(\d+)/);
-
-      if (!match || match[1] >= 74) {
-        match = userAgent.match(/Chrome\/(\d+)/);
-        if (match) version = match[1];
-      }
-    }
-
-    module.exports = version && +version;
+    exports.f = wellKnownSymbol;
     /***/
   },
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6154,7 +6257,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
     var WellKnownSymbolsStore = shared('wks');
     var Symbol = global.Symbol;
-    var createWellKnownSymbol = USE_SYMBOL_AS_UID ? Symbol : uid;
+    var createWellKnownSymbol = USE_SYMBOL_AS_UID ? Symbol : Symbol && Symbol.withoutSetter || uid;
 
     module.exports = function (name) {
       if (!has(WellKnownSymbolsStore, name)) {
@@ -6169,9 +6272,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/whitespaces.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6184,28 +6287,10 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
-  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/wrapped-well-known-symbol.js":
-  /*!***************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/wrapped-well-known-symbol.js ***!
-    \***************************************************************************************************************************************************************************************************/
-
-  /*! no static exports found */
-
-  /***/
-  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsInternalsWrappedWellKnownSymbolJs(module, exports, __webpack_require__) {
-    var wellKnownSymbol = __webpack_require__(
-    /*! ../internals/well-known-symbol */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
-
-    exports.f = wellKnownSymbol;
-    /***/
-  },
-
-  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.concat.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.concat.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.concat.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6254,8 +6339,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
     var V8_VERSION = __webpack_require__(
-    /*! ../internals/v8-version */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/v8-version.js");
+    /*! ../internals/engine-v8-version */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-v8-version.js");
 
     var IS_CONCAT_SPREADABLE = wellKnownSymbol('isConcatSpreadable');
     var MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF;
@@ -6317,9 +6402,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.copy-within.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.copy-within.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.copy-within.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6352,9 +6437,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.every.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.every.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.every.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6370,16 +6455,22 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-iteration */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js").every;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js"); // `Array.prototype.every` method
-    // https://tc39.github.io/ecma262/#sec-array.prototype.every
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var STRICT_METHOD = arrayMethodIsStrict('every');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('every'); // `Array.prototype.every` method
+    // https://tc39.github.io/ecma262/#sec-array.prototype.every
 
     $({
       target: 'Array',
       proto: true,
-      forced: sloppyArrayMethod('every')
+      forced: !STRICT_METHOD || !USES_TO_LENGTH
     }, {
       every: function every(callbackfn
       /* , thisArg */
@@ -6392,9 +6483,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.fill.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.fill.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.fill.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6427,9 +6518,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.filter.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.filter.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.filter.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6445,24 +6536,17 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-iteration */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js").filter;
 
-    var fails = __webpack_require__(
-    /*! ../internals/fails */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
-
     var arrayMethodHasSpeciesSupport = __webpack_require__(
     /*! ../internals/array-method-has-species-support */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
     var HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('filter'); // Edge 14- issue
 
-    var USES_TO_LENGTH = HAS_SPECIES_SUPPORT && !fails(function () {
-      [].filter.call({
-        length: -1,
-        0: 1
-      }, function (it) {
-        throw it;
-      });
-    }); // `Array.prototype.filter` method
+    var USES_TO_LENGTH = arrayMethodUsesToLength('filter'); // `Array.prototype.filter` method
     // https://tc39.github.io/ecma262/#sec-array.prototype.filter
     // with adding support of @@species
 
@@ -6482,9 +6566,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find-index.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find-index.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find-index.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6504,8 +6588,13 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/add-to-unscopables */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/add-to-unscopables.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
     var FIND_INDEX = 'findIndex';
-    var SKIPS_HOLES = true; // Shouldn't skip holes
+    var SKIPS_HOLES = true;
+    var USES_TO_LENGTH = arrayMethodUsesToLength(FIND_INDEX); // Shouldn't skip holes
 
     if (FIND_INDEX in []) Array(1)[FIND_INDEX](function () {
       SKIPS_HOLES = false;
@@ -6515,7 +6604,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     $({
       target: 'Array',
       proto: true,
-      forced: SKIPS_HOLES
+      forced: SKIPS_HOLES || !USES_TO_LENGTH
     }, {
       findIndex: function findIndex(callbackfn
       /* , that = undefined */
@@ -6530,9 +6619,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.find.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6552,8 +6641,13 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/add-to-unscopables */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/add-to-unscopables.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
     var FIND = 'find';
-    var SKIPS_HOLES = true; // Shouldn't skip holes
+    var SKIPS_HOLES = true;
+    var USES_TO_LENGTH = arrayMethodUsesToLength(FIND); // Shouldn't skip holes
 
     if (FIND in []) Array(1)[FIND](function () {
       SKIPS_HOLES = false;
@@ -6563,7 +6657,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     $({
       target: 'Array',
       proto: true,
-      forced: SKIPS_HOLES
+      forced: SKIPS_HOLES || !USES_TO_LENGTH
     }, {
       find: function find(callbackfn
       /* , that = undefined */
@@ -6578,9 +6672,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.for-each.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.for-each.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.for-each.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6610,9 +6704,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.from.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.from.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.from.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6647,9 +6741,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.index-of.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.index-of.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.index-of.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6665,19 +6759,27 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-includes */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-includes.js").indexOf;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js");
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
+
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
 
     var nativeIndexOf = [].indexOf;
     var NEGATIVE_ZERO = !!nativeIndexOf && 1 / [1].indexOf(1, -0) < 0;
-    var SLOPPY_METHOD = sloppyArrayMethod('indexOf'); // `Array.prototype.indexOf` method
+    var STRICT_METHOD = arrayMethodIsStrict('indexOf');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('indexOf', {
+      ACCESSORS: true,
+      1: 0
+    }); // `Array.prototype.indexOf` method
     // https://tc39.github.io/ecma262/#sec-array.prototype.indexof
 
     $({
       target: 'Array',
       proto: true,
-      forced: NEGATIVE_ZERO || SLOPPY_METHOD
+      forced: NEGATIVE_ZERO || !STRICT_METHOD || !USES_TO_LENGTH
     }, {
       indexOf: function indexOf(searchElement
       /* , fromIndex = 0 */
@@ -6691,9 +6793,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.is-array.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.is-array.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.is-array.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6720,9 +6822,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.iterator.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.iterator.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.iterator.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6814,9 +6916,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.join.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.join.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.join.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6836,19 +6938,19 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/to-indexed-object */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/to-indexed-object.js");
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js");
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
     var nativeJoin = [].join;
     var ES3_STRINGS = IndexedObject != Object;
-    var SLOPPY_METHOD = sloppyArrayMethod('join', ','); // `Array.prototype.join` method
+    var STRICT_METHOD = arrayMethodIsStrict('join', ','); // `Array.prototype.join` method
     // https://tc39.github.io/ecma262/#sec-array.prototype.join
 
     $({
       target: 'Array',
       proto: true,
-      forced: ES3_STRINGS || SLOPPY_METHOD
+      forced: ES3_STRINGS || !STRICT_METHOD
     }, {
       join: function join(separator) {
         return nativeJoin.call(toIndexedObject(this), separator === undefined ? ',' : separator);
@@ -6859,9 +6961,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.last-index-of.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.last-index-of.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.last-index-of.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6889,9 +6991,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.map.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.map.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.map.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6907,24 +7009,17 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-iteration */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js").map;
 
-    var fails = __webpack_require__(
-    /*! ../internals/fails */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
-
     var arrayMethodHasSpeciesSupport = __webpack_require__(
     /*! ../internals/array-method-has-species-support */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
     var HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('map'); // FF49- issue
 
-    var USES_TO_LENGTH = HAS_SPECIES_SUPPORT && !fails(function () {
-      [].map.call({
-        length: -1,
-        0: 1
-      }, function (it) {
-        throw it;
-      });
-    }); // `Array.prototype.map` method
+    var USES_TO_LENGTH = arrayMethodUsesToLength('map'); // `Array.prototype.map` method
     // https://tc39.github.io/ecma262/#sec-array.prototype.map
     // with adding support of @@species
 
@@ -6944,9 +7039,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.of.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.of.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.of.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7001,9 +7096,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce-right.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce-right.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce-right.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7019,16 +7114,25 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-reduce */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-reduce.js").right;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js"); // `Array.prototype.reduceRight` method
-    // https://tc39.github.io/ecma262/#sec-array.prototype.reduceright
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var STRICT_METHOD = arrayMethodIsStrict('reduceRight'); // For preventing possible almost infinite loop in non-standard implementations, test the forward version of the method
+
+    var USES_TO_LENGTH = arrayMethodUsesToLength('reduce', {
+      1: 0
+    }); // `Array.prototype.reduceRight` method
+    // https://tc39.github.io/ecma262/#sec-array.prototype.reduceright
 
     $({
       target: 'Array',
       proto: true,
-      forced: sloppyArrayMethod('reduceRight')
+      forced: !STRICT_METHOD || !USES_TO_LENGTH
     }, {
       reduceRight: function reduceRight(callbackfn
       /* , initialValue */
@@ -7041,9 +7145,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.reduce.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7059,16 +7163,24 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-reduce */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-reduce.js").left;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js"); // `Array.prototype.reduce` method
-    // https://tc39.github.io/ecma262/#sec-array.prototype.reduce
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var STRICT_METHOD = arrayMethodIsStrict('reduce');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('reduce', {
+      1: 0
+    }); // `Array.prototype.reduce` method
+    // https://tc39.github.io/ecma262/#sec-array.prototype.reduce
 
     $({
       target: 'Array',
       proto: true,
-      forced: sloppyArrayMethod('reduce')
+      forced: !STRICT_METHOD || !USES_TO_LENGTH
     }, {
       reduce: function reduce(callbackfn
       /* , initialValue */
@@ -7081,9 +7193,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.slice.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.slice.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.slice.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7119,14 +7231,24 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/create-property */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-property.js");
 
-    var arrayMethodHasSpeciesSupport = __webpack_require__(
-    /*! ../internals/array-method-has-species-support */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js");
-
     var wellKnownSymbol = __webpack_require__(
     /*! ../internals/well-known-symbol */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
+    var arrayMethodHasSpeciesSupport = __webpack_require__(
+    /*! ../internals/array-method-has-species-support */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js");
+
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('slice');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('slice', {
+      ACCESSORS: true,
+      0: 0,
+      1: 2
+    });
     var SPECIES = wellKnownSymbol('species');
     var nativeSlice = [].slice;
     var max = Math.max; // `Array.prototype.slice` method
@@ -7136,7 +7258,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     $({
       target: 'Array',
       proto: true,
-      forced: !arrayMethodHasSpeciesSupport('slice')
+      forced: !HAS_SPECIES_SUPPORT || !USES_TO_LENGTH
     }, {
       slice: function slice(start, end) {
         var O = toIndexedObject(this);
@@ -7176,9 +7298,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.some.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.some.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.some.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7194,16 +7316,22 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-iteration */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-iteration.js").some;
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js"); // `Array.prototype.some` method
-    // https://tc39.github.io/ecma262/#sec-array.prototype.some
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var STRICT_METHOD = arrayMethodIsStrict('some');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('some'); // `Array.prototype.some` method
+    // https://tc39.github.io/ecma262/#sec-array.prototype.some
 
     $({
       target: 'Array',
       proto: true,
-      forced: sloppyArrayMethod('some')
+      forced: !STRICT_METHOD || !USES_TO_LENGTH
     }, {
       some: function some(callbackfn
       /* , thisArg */
@@ -7216,9 +7344,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.sort.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.sort.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.sort.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7242,9 +7370,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/fails */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/fails.js");
 
-    var sloppyArrayMethod = __webpack_require__(
-    /*! ../internals/sloppy-array-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/sloppy-array-method.js");
+    var arrayMethodIsStrict = __webpack_require__(
+    /*! ../internals/array-method-is-strict */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-is-strict.js");
 
     var test = [];
     var nativeSort = test.sort; // IE8-
@@ -7257,8 +7385,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       test.sort(null);
     }); // Old WebKit
 
-    var SLOPPY_METHOD = sloppyArrayMethod('sort');
-    var FORCED = FAILS_ON_UNDEFINED || !FAILS_ON_NULL || SLOPPY_METHOD; // `Array.prototype.sort` method
+    var STRICT_METHOD = arrayMethodIsStrict('sort');
+    var FORCED = FAILS_ON_UNDEFINED || !FAILS_ON_NULL || !STRICT_METHOD; // `Array.prototype.sort` method
     // https://tc39.github.io/ecma262/#sec-array.prototype.sort
 
     $({
@@ -7275,9 +7403,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.splice.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.splice.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.array.splice.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7317,6 +7445,16 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! ../internals/array-method-has-species-support */
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-has-species-support.js");
 
+    var arrayMethodUsesToLength = __webpack_require__(
+    /*! ../internals/array-method-uses-to-length */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/array-method-uses-to-length.js");
+
+    var HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('splice');
+    var USES_TO_LENGTH = arrayMethodUsesToLength('splice', {
+      ACCESSORS: true,
+      0: 0,
+      1: 2
+    });
     var max = Math.max;
     var min = Math.min;
     var MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF;
@@ -7327,7 +7465,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     $({
       target: 'Array',
       proto: true,
-      forced: !arrayMethodHasSpeciesSupport('splice')
+      forced: !HAS_SPECIES_SUPPORT || !USES_TO_LENGTH
     }, {
       splice: function splice(start, deleteCount
       /* , ...items */
@@ -7392,9 +7530,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.now.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.now.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.now.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7419,9 +7557,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-iso-string.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-iso-string.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-iso-string.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7450,9 +7588,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-json.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-json.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-json.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7502,9 +7640,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-primitive.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-primitive.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-primitive.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7535,9 +7673,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-string.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-string.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.date.to-string.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7567,9 +7705,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.bind.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.bind.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.bind.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7596,9 +7734,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.has-instance.js":
-  /*!************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.has-instance.js ***!
-    \************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.has-instance.js ***!
+    \*************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7646,9 +7784,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.name.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.name.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.function.name.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7686,9 +7824,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.json.to-string-tag.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.json.to-string-tag.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.json.to-string-tag.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7710,9 +7848,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.map.js":
-  /*!******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.map.js ***!
-    \******************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.map.js ***!
+    \*******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7740,9 +7878,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.acosh.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.acosh.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.acosh.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7779,9 +7917,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.asinh.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.asinh.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.asinh.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7814,9 +7952,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.atanh.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.atanh.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.atanh.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7845,9 +7983,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cbrt.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cbrt.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cbrt.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7878,9 +8016,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.clz32.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.clz32.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.clz32.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7908,9 +8046,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cosh.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cosh.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.cosh.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7944,9 +8082,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.expm1.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.expm1.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.expm1.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7974,9 +8112,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.fround.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.fround.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.fround.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8003,9 +8141,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.hypot.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.hypot.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.hypot.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8057,9 +8195,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.imul.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.imul.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.imul.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8099,9 +8237,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log10.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log10.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log10.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8128,9 +8266,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log1p.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log1p.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log1p.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8157,9 +8295,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log2.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log2.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.log2.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8186,9 +8324,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sign.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sign.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sign.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8215,9 +8353,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sinh.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sinh.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.sinh.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8258,9 +8396,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.tanh.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.tanh.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.tanh.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8292,9 +8430,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.to-string-tag.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.to-string-tag.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.to-string-tag.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8312,9 +8450,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.trunc.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.trunc.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.math.trunc.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8341,9 +8479,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.constructor.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.constructor.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.constructor.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8492,9 +8630,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.epsilon.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.epsilon.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.epsilon.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8517,9 +8655,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-finite.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-finite.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-finite.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8546,9 +8684,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-integer.js":
-  /*!********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-integer.js ***!
-    \********************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-integer.js ***!
+    \*********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8575,9 +8713,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-nan.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-nan.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-nan.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8603,9 +8741,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-safe-integer.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-safe-integer.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.is-safe-integer.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8635,9 +8773,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.max-safe-integer.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.max-safe-integer.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.max-safe-integer.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8660,9 +8798,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.min-safe-integer.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.min-safe-integer.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.min-safe-integer.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8685,9 +8823,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-float.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-float.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-float.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8698,8 +8836,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js");
 
     var parseFloat = __webpack_require__(
-    /*! ../internals/parse-float */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-float.js"); // `Number.parseFloat` method
+    /*! ../internals/number-parse-float */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-float.js"); // `Number.parseFloat` method
     // https://tc39.github.io/ecma262/#sec-number.parseFloat
 
 
@@ -8715,9 +8853,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-int.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-int.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.parse-int.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8728,8 +8866,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js");
 
     var parseInt = __webpack_require__(
-    /*! ../internals/parse-int */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-int.js"); // `Number.parseInt` method
+    /*! ../internals/number-parse-int */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-int.js"); // `Number.parseInt` method
     // https://tc39.github.io/ecma262/#sec-number.parseint
 
 
@@ -8745,9 +8883,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-fixed.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-fixed.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-fixed.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8914,9 +9052,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-precision.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-precision.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.number.to-precision.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8960,9 +9098,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.assign.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.assign.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.assign.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8990,9 +9128,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.create.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.create.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.create.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9024,9 +9162,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-properties.js":
-  /*!***************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-properties.js ***!
-    \***************************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-properties.js ***!
+    \****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9059,9 +9197,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-property.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-property.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.define-property.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9094,9 +9232,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.freeze.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.freeze.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.freeze.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9143,9 +9281,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-descriptor.js":
-  /*!*************************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-descriptor.js ***!
-    \*************************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-descriptor.js ***!
+    \**************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9192,9 +9330,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-names.js":
-  /*!********************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-names.js ***!
-    \********************************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-own-property-names.js ***!
+    \*********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9229,9 +9367,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-prototype-of.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-prototype-of.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.get-prototype-of.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9277,9 +9415,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-extensible.js":
-  /*!***********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-extensible.js ***!
-    \***********************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-extensible.js ***!
+    \************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9317,9 +9455,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-frozen.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-frozen.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-frozen.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9357,9 +9495,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-sealed.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-sealed.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is-sealed.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9397,9 +9535,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.is.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9426,9 +9564,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.keys.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.keys.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.keys.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9469,9 +9607,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.prevent-extensions.js":
-  /*!****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.prevent-extensions.js ***!
-    \****************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.prevent-extensions.js ***!
+    \*****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9518,9 +9656,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.seal.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.seal.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.seal.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9567,9 +9705,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.set-prototype-of.js":
-  /*!**************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.set-prototype-of.js ***!
-    \**************************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.set-prototype-of.js ***!
+    \***************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9596,9 +9734,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.to-string.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.to-string.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.object.to-string.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9629,9 +9767,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-float.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-float.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-float.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9642,8 +9780,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js");
 
     var parseFloatImplementation = __webpack_require__(
-    /*! ../internals/parse-float */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-float.js"); // `parseFloat` method
+    /*! ../internals/number-parse-float */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-float.js"); // `parseFloat` method
     // https://tc39.github.io/ecma262/#sec-parsefloat-string
 
 
@@ -9658,9 +9796,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-int.js":
-  /*!************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-int.js ***!
-    \************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.parse-int.js ***!
+    \*************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9671,8 +9809,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js");
 
     var parseIntImplementation = __webpack_require__(
-    /*! ../internals/parse-int */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/parse-int.js"); // `parseInt` method
+    /*! ../internals/number-parse-int */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/number-parse-int.js"); // `parseInt` method
     // https://tc39.github.io/ecma262/#sec-parseint-string-radix
 
 
@@ -9687,9 +9825,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.promise.js":
-  /*!**********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.promise.js ***!
-    \**********************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.promise.js ***!
+    \***********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9802,8 +9940,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
     var V8_VERSION = __webpack_require__(
-    /*! ../internals/v8-version */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/v8-version.js");
+    /*! ../internals/engine-v8-version */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/engine-v8-version.js");
 
     var SPECIES = wellKnownSymbol('species');
     var PROMISE = 'Promise';
@@ -10201,9 +10339,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.constructor.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.constructor.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.constructor.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10340,10 +10478,40 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   },
 
   /***/
+  "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.exec.js":
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.exec.js ***!
+    \***************************************************************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesAngularDevkitBuildAngularNode_modulesCoreJsModulesEsRegexpExecJs(module, exports, __webpack_require__) {
+    "use strict";
+
+    var $ = __webpack_require__(
+    /*! ../internals/export */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/export.js");
+
+    var exec = __webpack_require__(
+    /*! ../internals/regexp-exec */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/regexp-exec.js");
+
+    $({
+      target: 'RegExp',
+      proto: true,
+      forced: /./.exec !== exec
+    }, {
+      exec: exec
+    });
+    /***/
+  },
+
+  /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.flags.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.flags.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.flags.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10379,9 +10547,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.to-string.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.to-string.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.regexp.to-string.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10435,9 +10603,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.set.js":
-  /*!******************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.set.js ***!
-    \******************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.set.js ***!
+    \*******************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10465,9 +10633,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.anchor.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.anchor.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.anchor.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10484,8 +10652,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.anchor` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.anchor` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.anchor
 
 
@@ -10503,9 +10671,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.big.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.big.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.big.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10522,8 +10690,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.big` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.big` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.big
 
 
@@ -10541,9 +10709,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.blink.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.blink.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.blink.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10560,8 +10728,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.blink` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.blink` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.blink
 
 
@@ -10579,9 +10747,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.bold.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.bold.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.bold.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10598,8 +10766,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.bold` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.bold` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.bold
 
 
@@ -10617,9 +10785,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.code-point-at.js":
-  /*!***********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.code-point-at.js ***!
-    \***********************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.code-point-at.js ***!
+    \************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10650,9 +10818,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.ends-with.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.ends-with.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.ends-with.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10720,9 +10888,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fixed.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fixed.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fixed.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10739,8 +10907,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.fixed` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.fixed` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.fixed
 
 
@@ -10758,9 +10926,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontcolor.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontcolor.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontcolor.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10777,8 +10945,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.fontcolor` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.fontcolor` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.fontcolor
 
 
@@ -10796,9 +10964,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontsize.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontsize.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.fontsize.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10815,8 +10983,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.fontsize` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.fontsize` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.fontsize
 
 
@@ -10834,9 +11002,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.from-code-point.js":
-  /*!*************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.from-code-point.js ***!
-    \*************************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.from-code-point.js ***!
+    \**************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10882,9 +11050,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.includes.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.includes.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.includes.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10926,9 +11094,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.italics.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.italics.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.italics.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10945,8 +11113,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.italics` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.italics` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.italics
 
 
@@ -10964,9 +11132,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.iterator.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.iterator.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.iterator.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11019,9 +11187,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.link.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.link.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.link.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11038,8 +11206,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.link` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.link` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.link
 
 
@@ -11057,9 +11225,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.match.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.match.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.match.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11128,9 +11296,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.raw.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.raw.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.raw.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11174,9 +11342,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.repeat.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.repeat.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.repeat.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11203,9 +11371,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.replace.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.replace.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.replace.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11257,6 +11425,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
 
     fixRegExpWellKnownSymbolLogic('replace', 2, function (REPLACE, nativeReplace, maybeCallNative, reason) {
+      var REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE = reason.REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE;
+      var REPLACE_KEEPS_$0 = reason.REPLACE_KEEPS_$0;
+      var UNSAFE_SUBSTITUTE = REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE ? '$' : '$0';
       return [// `String.prototype.replace` method
       // https://tc39.github.io/ecma262/#sec-string.prototype.replace
       function replace(searchValue, replaceValue) {
@@ -11266,7 +11437,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       }, // `RegExp.prototype[@@replace]` method
       // https://tc39.github.io/ecma262/#sec-regexp.prototype-@@replace
       function (regexp, replaceValue) {
-        if (reason.REPLACE_KEEPS_$0 || typeof replaceValue === 'string' && replaceValue.indexOf('$0') === -1) {
+        if (!REGEXP_REPLACE_SUBSTITUTES_UNDEFINED_CAPTURE && REPLACE_KEEPS_$0 || typeof replaceValue === 'string' && replaceValue.indexOf(UNSAFE_SUBSTITUTE) === -1) {
           var res = maybeCallNative(nativeReplace, regexp, this, replaceValue);
           if (res.done) return res.value;
         }
@@ -11383,9 +11554,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.search.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.search.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.search.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11440,9 +11611,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.small.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.small.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.small.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11459,8 +11630,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.small` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.small` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.small
 
 
@@ -11478,9 +11649,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.split.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.split.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.split.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11643,9 +11814,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.starts-with.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.starts-with.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.starts-with.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11711,9 +11882,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.strike.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.strike.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.strike.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11730,8 +11901,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.strike` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.strike` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.strike
 
 
@@ -11749,9 +11920,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sub.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sub.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sub.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11768,8 +11939,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.sub` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.sub` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.sub
 
 
@@ -11787,9 +11958,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sup.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sup.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.sup.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11806,8 +11977,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/create-html.js");
 
     var forcedStringHTMLMethod = __webpack_require__(
-    /*! ../internals/forced-string-html-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-html-method.js"); // `String.prototype.sup` method
+    /*! ../internals/string-html-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-html-forced.js"); // `String.prototype.sup` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.sup
 
 
@@ -11825,9 +11996,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.trim.js":
-  /*!**************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.trim.js ***!
-    \**************************************************************************************************************************************************************************************/
+  /*!***************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.string.trim.js ***!
+    \***************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11844,8 +12015,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim.js").trim;
 
     var forcedStringTrimMethod = __webpack_require__(
-    /*! ../internals/forced-string-trim-method */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/forced-string-trim-method.js"); // `String.prototype.trim` method
+    /*! ../internals/string-trim-forced */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/string-trim-forced.js"); // `String.prototype.trim` method
     // https://tc39.github.io/ecma262/#sec-string.prototype.trim
 
 
@@ -11863,9 +12034,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.async-iterator.js":
-  /*!************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.async-iterator.js ***!
-    \************************************************************************************************************************************************************************************************/
+  /*!*************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.async-iterator.js ***!
+    \*************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11883,9 +12054,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.description.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.description.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.description.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11967,9 +12138,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.has-instance.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.has-instance.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.has-instance.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11987,9 +12158,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js":
-  /*!******************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js ***!
-    \******************************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js ***!
+    \*******************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12007,9 +12178,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.iterator.js":
-  /*!******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.iterator.js ***!
-    \******************************************************************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.iterator.js ***!
+    \*******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12027,9 +12198,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.js":
-  /*!*********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.js ***!
-    \*********************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.js ***!
+    \**********************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12162,8 +12333,8 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol.js");
 
     var wrappedWellKnownSymbolModule = __webpack_require__(
-    /*! ../internals/wrapped-well-known-symbol */
-    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/wrapped-well-known-symbol.js");
+    /*! ../internals/well-known-symbol-wrapped */
+    "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/internals/well-known-symbol-wrapped.js");
 
     var defineWellKnownSymbol = __webpack_require__(
     /*! ../internals/define-well-known-symbol */
@@ -12232,7 +12403,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       return symbol;
     };
 
-    var isSymbol = NATIVE_SYMBOL && typeof $Symbol.iterator == 'symbol' ? function (it) {
+    var isSymbol = USE_SYMBOL_AS_UID ? function (it) {
       return typeof it == 'symbol';
     } : function (it) {
       return Object(it) instanceof $Symbol;
@@ -12340,11 +12511,18 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       redefine($Symbol[PROTOTYPE], 'toString', function toString() {
         return getInternalState(this).tag;
       });
+      redefine($Symbol, 'withoutSetter', function (description) {
+        return wrap(uid(description), description);
+      });
       propertyIsEnumerableModule.f = $propertyIsEnumerable;
       definePropertyModule.f = $defineProperty;
       getOwnPropertyDescriptorModule.f = $getOwnPropertyDescriptor;
       getOwnPropertyNamesModule.f = getOwnPropertyNamesExternal.f = $getOwnPropertyNames;
       getOwnPropertySymbolsModule.f = $getOwnPropertySymbols;
+
+      wrappedWellKnownSymbolModule.f = function (name) {
+        return wrap(wellKnownSymbol(name), name);
+      };
 
       if (DESCRIPTORS) {
         // https://github.com/tc39/proposal-Symbol-description
@@ -12361,12 +12539,6 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           });
         }
       }
-    }
-
-    if (!USE_SYMBOL_AS_UID) {
-      wrappedWellKnownSymbolModule.f = function (name) {
-        return wrap(wellKnownSymbol(name), name);
-      };
     }
 
     $({
@@ -12507,9 +12679,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match-all.js":
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match-all.js ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match-all.js ***!
+    \********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12526,9 +12698,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.match.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12546,9 +12718,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.replace.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.replace.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.replace.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12566,9 +12738,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.search.js":
-  /*!****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.search.js ***!
-    \****************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.search.js ***!
+    \*****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12586,9 +12758,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.species.js":
-  /*!*****************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.species.js ***!
-    \*****************************************************************************************************************************************************************************************/
+  /*!******************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.species.js ***!
+    \******************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12606,9 +12778,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.split.js":
-  /*!***************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.split.js ***!
-    \***************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.split.js ***!
+    \****************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12626,9 +12798,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-primitive.js":
-  /*!**********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-primitive.js ***!
-    \**********************************************************************************************************************************************************************************************/
+  /*!***********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-primitive.js ***!
+    \***********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12646,9 +12818,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-string-tag.js":
-  /*!***********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-string-tag.js ***!
-    \***********************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.to-string-tag.js ***!
+    \************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12666,9 +12838,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.unscopables.js":
-  /*!*********************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.unscopables.js ***!
-    \*********************************************************************************************************************************************************************************************/
+  /*!**********************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.symbol.unscopables.js ***!
+    \**********************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12686,9 +12858,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.weak-map.js":
-  /*!***********************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.weak-map.js ***!
-    \***********************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/es.weak-map.js ***!
+    \************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12797,9 +12969,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.for-each.js":
-  /*!****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.for-each.js ***!
-    \****************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.for-each.js ***!
+    \*****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12837,9 +13009,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.iterator.js":
-  /*!****************************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.iterator.js ***!
-    \****************************************************************************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/node_modules/core-js/modules/web.dom-collections.iterator.js ***!
+    \*****************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12901,9 +13073,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js":
-  /*!*************************************************************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js ***!
-    \*************************************************************************************************************************************************************************************/
+  /*!**************************************************************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js ***!
+    \**************************************************************************************************************************************************************************/
 
   /*! no exports provided */
 
@@ -13951,9 +14123,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/regenerator-runtime/runtime.js":
-  /*!****************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/regenerator-runtime/runtime.js ***!
-    \****************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/regenerator-runtime/runtime.js ***!
+    \*****************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -14670,9 +14842,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/zone.js/dist/zone-evergreen.js":
-  /*!****************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/zone.js/dist/zone-evergreen.js ***!
-    \****************************************************************************************************************************************/
+  /*!*****************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/zone.js/dist/zone-evergreen.js ***!
+    \*****************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -18212,9 +18384,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/zone.js/dist/zone-legacy.js":
-  /*!*************************************************************************************************************************************!*\
-    !*** D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/zone.js/dist/zone-legacy.js ***!
-    \*************************************************************************************************************************************/
+  /*!**************************************************************************************************************************!*\
+    !*** C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/zone.js/dist/zone-legacy.js ***!
+    \**************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -18868,16 +19040,16 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   1:
-  /*!***************************************************************************************************************************************************************************************************************************************!*\
-    !*** multi D:/projects/workspace/Fathym/Git/Open Source/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js zone.js/dist/zone-legacy ./src/polyfills.ts ***!
-    \***************************************************************************************************************************************************************************************************************************************/
+  /*!****************************************************************************************************************************************************************************************************************************!*\
+    !*** multi C:/Users/GeorgeHatch/source/repos/lowcodeunit/lcu-hamburger-menu-side-nav/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js zone.js/dist/zone-legacy ./src/polyfills.ts ***!
+    \****************************************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! D:\projects\workspace\Fathym\Git\Open Source\lowcodeunit\lcu-hamburger-menu-side-nav\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
+    /*! C:\Users\GeorgeHatch\source\repos\lowcodeunit\lcu-hamburger-menu-side-nav\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
     "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js");
 
     __webpack_require__(
@@ -18885,7 +19057,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/zone.js/dist/zone-legacy.js");
 
     module.exports = __webpack_require__(
-    /*! D:\projects\workspace\Fathym\Git\Open Source\lowcodeunit\lcu-hamburger-menu-side-nav\projects\demo\src\polyfills.ts */
+    /*! C:\Users\GeorgeHatch\source\repos\lowcodeunit\lcu-hamburger-menu-side-nav\projects\demo\src\polyfills.ts */
     "./src/polyfills.ts");
     /***/
   }
