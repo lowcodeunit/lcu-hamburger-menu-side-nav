@@ -1,9 +1,11 @@
-import { Component, Input, ViewChild, Output, EventEmitter } from '@angular/core';
-import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
-import { Observable, Subject } from 'rxjs';
+import { MatSidenav } from '@angular/material/sidenav';
+import { Breakpoints, BreakpointState, BreakpointObserver } from '@angular/cdk/layout';
+import { Component, Input, ViewChild } from '@angular/core';
+import { Observable } from 'rxjs';
+import { Output, EventEmitter } from '@angular/core';
+import { Subject } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { NavLinkModel } from '../../models/nav-link.model';
-import { MatSidenav } from '@angular/material';
 
 
 @Component({
@@ -16,7 +18,7 @@ export class SideNavComponent {
 
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
-      map(result => result.matches)
+      map((result: BreakpointState) => result.matches)
     );
 
   protected _navLinks: Array<NavLinkModel>;
@@ -80,7 +82,6 @@ export class SideNavComponent {
   public ButtonBGColor: string;
   public ButtonHover: boolean;
 
-
   @ViewChild('sidenav', { static: false }) public sidenav: MatSidenav;
 
   // public MenuColor: string;
@@ -104,7 +105,7 @@ export class SideNavComponent {
     });
   }
 
-  public ButtonClicked(button) {
+  public ButtonClicked(button: any) {
     this.NavItemClicked.emit(button);
   }
 
