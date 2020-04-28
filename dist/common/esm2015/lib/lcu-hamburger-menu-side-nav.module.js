@@ -1,28 +1,27 @@
-/**
- * @fileoverview added by tsickle
- * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
- */
+import { __decorate } from "tslib";
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SideNavComponent } from './controls/side-nav/side-nav.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
-import { MatSidenavModule, MatIconModule } from '@angular/material';
-export class LcuHamburgerMenuSideNavModule {
-}
-LcuHamburgerMenuSideNavModule.decorators = [
-    { type: NgModule, args: [{
-                declarations: [SideNavComponent],
-                imports: [
-                    CommonModule,
-                    FlexLayoutModule,
-                    FathymSharedModule,
-                    MaterialModule,
-                    MatSidenavModule,
-                    MatIconModule
-                ],
-                exports: [SideNavComponent],
-                entryComponents: [SideNavComponent]
-            },] }
-];
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGN1LWhhbWJ1cmdlci1tZW51LXNpZGUtbmF2Lm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0Bsb3djb2RldW5pdC9sY3UtaGFtYnVyZ2VyLW1lbnUtc2lkZS1uYXYtY29tbW9uLyIsInNvdXJjZXMiOlsibGliL2xjdS1oYW1idXJnZXItbWVudS1zaWRlLW5hdi5tb2R1bGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLE9BQU8sRUFBRSxRQUFRLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFDekMsT0FBTyxFQUFFLFlBQVksRUFBRSxNQUFNLGlCQUFpQixDQUFDO0FBQy9DLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHdDQUF3QyxDQUFDO0FBQzFFLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHNCQUFzQixDQUFDO0FBQ3hELE9BQU8sRUFBRSxrQkFBa0IsRUFBRSxjQUFjLEVBQUUsTUFBTSxhQUFhLENBQUM7QUFDakUsT0FBTyxFQUFFLGdCQUFnQixFQUFFLGFBQWEsRUFBRSxNQUFNLG1CQUFtQixDQUFDO0FBZXBFLE1BQU0sT0FBTyw2QkFBNkI7OztZQWJ6QyxRQUFRLFNBQUM7Z0JBQ1IsWUFBWSxFQUFFLENBQUMsZ0JBQWdCLENBQUM7Z0JBQ2hDLE9BQU8sRUFBRTtvQkFDUCxZQUFZO29CQUNaLGdCQUFnQjtvQkFDaEIsa0JBQWtCO29CQUNsQixjQUFjO29CQUNkLGdCQUFnQjtvQkFDaEIsYUFBYTtpQkFDZDtnQkFDRCxPQUFPLEVBQUUsQ0FBQyxnQkFBZ0IsQ0FBQztnQkFDM0IsZUFBZSxFQUFDLENBQUMsZ0JBQWdCLENBQUM7YUFDbkMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBOZ01vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5pbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nO1xyXG5pbXBvcnQgeyBTaWRlTmF2Q29tcG9uZW50IH0gZnJvbSAnLi9jb250cm9scy9zaWRlLW5hdi9zaWRlLW5hdi5jb21wb25lbnQnO1xyXG5pbXBvcnQgeyBGbGV4TGF5b3V0TW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvZmxleC1sYXlvdXQnO1xyXG5pbXBvcnQgeyBGYXRoeW1TaGFyZWRNb2R1bGUsIE1hdGVyaWFsTW9kdWxlIH0gZnJvbSAnQGxjdS9jb21tb24nO1xyXG5pbXBvcnQgeyBNYXRTaWRlbmF2TW9kdWxlLCBNYXRJY29uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvbWF0ZXJpYWwnO1xyXG5cclxuQE5nTW9kdWxlKHtcclxuICBkZWNsYXJhdGlvbnM6IFtTaWRlTmF2Q29tcG9uZW50XSxcclxuICBpbXBvcnRzOiBbXHJcbiAgICBDb21tb25Nb2R1bGUsXHJcbiAgICBGbGV4TGF5b3V0TW9kdWxlLFxyXG4gICAgRmF0aHltU2hhcmVkTW9kdWxlLFxyXG4gICAgTWF0ZXJpYWxNb2R1bGUsXHJcbiAgICBNYXRTaWRlbmF2TW9kdWxlLFxyXG4gICAgTWF0SWNvbk1vZHVsZVxyXG4gIF0sXHJcbiAgZXhwb3J0czogW1NpZGVOYXZDb21wb25lbnRdLFxyXG4gIGVudHJ5Q29tcG9uZW50czpbU2lkZU5hdkNvbXBvbmVudF1cclxufSlcclxuZXhwb3J0IGNsYXNzIExjdUhhbWJ1cmdlck1lbnVTaWRlTmF2TW9kdWxlIHsgfVxyXG4iXX0=
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatIconModule } from '@angular/material/icon';
+let LcuHamburgerMenuSideNavModule = class LcuHamburgerMenuSideNavModule {
+};
+LcuHamburgerMenuSideNavModule = __decorate([
+    NgModule({
+        declarations: [SideNavComponent],
+        imports: [
+            CommonModule,
+            FlexLayoutModule,
+            FathymSharedModule,
+            MaterialModule,
+            MatSidenavModule,
+            MatIconModule
+        ],
+        exports: [SideNavComponent],
+        entryComponents: [SideNavComponent]
+    })
+], LcuHamburgerMenuSideNavModule);
+export { LcuHamburgerMenuSideNavModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGN1LWhhbWJ1cmdlci1tZW51LXNpZGUtbmF2Lm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0Bsb3djb2RldW5pdC9sY3UtaGFtYnVyZ2VyLW1lbnUtc2lkZS1uYXYtY29tbW9uLyIsInNvdXJjZXMiOlsibGliL2xjdS1oYW1idXJnZXItbWVudS1zaWRlLW5hdi5tb2R1bGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLE9BQU8sRUFBRSxRQUFRLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFDekMsT0FBTyxFQUFFLFlBQVksRUFBRSxNQUFNLGlCQUFpQixDQUFDO0FBQy9DLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHdDQUF3QyxDQUFDO0FBQzFFLE9BQU8sRUFBRSxnQkFBZ0IsRUFBRSxNQUFNLHNCQUFzQixDQUFDO0FBQ3hELE9BQU8sRUFBRSxrQkFBa0IsRUFBRSxjQUFjLEVBQUUsTUFBTSxhQUFhLENBQUM7QUFDakUsT0FBTyxFQUFFLGdCQUFnQixFQUFFLE1BQU0sMkJBQTJCLENBQUM7QUFDN0QsT0FBTyxFQUFFLGFBQWEsRUFBRSxNQUFNLHdCQUF3QixDQUFDO0FBZXZELElBQWEsNkJBQTZCLEdBQTFDLE1BQWEsNkJBQTZCO0NBQUksQ0FBQTtBQUFqQyw2QkFBNkI7SUFiekMsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsZ0JBQWdCLENBQUM7UUFDaEMsT0FBTyxFQUFFO1lBQ1AsWUFBWTtZQUNaLGdCQUFnQjtZQUNoQixrQkFBa0I7WUFDbEIsY0FBYztZQUNkLGdCQUFnQjtZQUNoQixhQUFhO1NBQ2Q7UUFDRCxPQUFPLEVBQUUsQ0FBQyxnQkFBZ0IsQ0FBQztRQUMzQixlQUFlLEVBQUUsQ0FBQyxnQkFBZ0IsQ0FBQztLQUNwQyxDQUFDO0dBQ1csNkJBQTZCLENBQUk7U0FBakMsNkJBQTZCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcclxuaW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJztcclxuaW1wb3J0IHsgU2lkZU5hdkNvbXBvbmVudCB9IGZyb20gJy4vY29udHJvbHMvc2lkZS1uYXYvc2lkZS1uYXYuY29tcG9uZW50JztcclxuaW1wb3J0IHsgRmxleExheW91dE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2ZsZXgtbGF5b3V0JztcclxuaW1wb3J0IHsgRmF0aHltU2hhcmVkTW9kdWxlLCBNYXRlcmlhbE1vZHVsZSB9IGZyb20gJ0BsY3UvY29tbW9uJztcclxuaW1wb3J0IHsgTWF0U2lkZW5hdk1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsL3NpZGVuYXYnO1xyXG5pbXBvcnQgeyBNYXRJY29uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvbWF0ZXJpYWwvaWNvbic7XHJcblxyXG5ATmdNb2R1bGUoe1xyXG4gIGRlY2xhcmF0aW9uczogW1NpZGVOYXZDb21wb25lbnRdLFxyXG4gIGltcG9ydHM6IFtcclxuICAgIENvbW1vbk1vZHVsZSxcclxuICAgIEZsZXhMYXlvdXRNb2R1bGUsXHJcbiAgICBGYXRoeW1TaGFyZWRNb2R1bGUsXHJcbiAgICBNYXRlcmlhbE1vZHVsZSxcclxuICAgIE1hdFNpZGVuYXZNb2R1bGUsXHJcbiAgICBNYXRJY29uTW9kdWxlXHJcbiAgXSxcclxuICBleHBvcnRzOiBbU2lkZU5hdkNvbXBvbmVudF0sXHJcbiAgZW50cnlDb21wb25lbnRzOiBbU2lkZU5hdkNvbXBvbmVudF1cclxufSlcclxuZXhwb3J0IGNsYXNzIExjdUhhbWJ1cmdlck1lbnVTaWRlTmF2TW9kdWxlIHsgfVxyXG4iXX0=

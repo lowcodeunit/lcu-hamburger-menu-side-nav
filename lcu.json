@@ -1,14 +1,16 @@
-{ 
-    "templates": {
-        "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
-        "scope": "@lowcodeunit",
-        "workspace": "lcu-hamburger-menu-side-nav"
-    },
-    "config": {
-      "wc": ["wc/lcu-hamburger-menu-side-nav.lcu.js"],
-      "solutions": {},
-      "elements": {},
-      "flux": {},
-      "dependencies": {}
-    }
+{
+	"templates": {
+		"repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+		"scope": "@lowcodeunit",
+		"workspace": "lcu-hamburger-menu-side-nav"
+	},
+	"config": {
+		"wc": [
+			"wc/lcu-hamburger-menu-side-nav.lcu.js"
+		],
+		"solutions": {},
+		"elements": {},
+		"flux": {},
+		"dependencies": {}
+	}
 }

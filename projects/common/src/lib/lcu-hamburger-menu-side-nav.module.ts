@@ -3,7 +3,8 @@ import { CommonModule } from '@angular/common';
 import { SideNavComponent } from './controls/side-nav/side-nav.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
-import { MatSidenavModule, MatIconModule } from '@angular/material';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [SideNavComponent],
@@ -16,6 +17,6 @@ import { MatSidenavModule, MatIconModule } from '@angular/material';
     MatIconModule
   ],
   exports: [SideNavComponent],
-  entryComponents:[SideNavComponent]
+  entryComponents: [SideNavComponent]
 })
 export class LcuHamburgerMenuSideNavModule { }

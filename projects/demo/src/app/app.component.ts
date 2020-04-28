@@ -1,6 +1,6 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
-import {OverlayContainer} from '@angular/cdk/overlay';
+import { OverlayContainer } from '@angular/cdk/overlay';
 import { NavigationConstants } from './utils/constants/navigation.constants';
 import { NavLinkModel } from 'projects/common/src/lib/models/nav-link.model';
 import { Subject } from 'rxjs';
@@ -43,7 +43,7 @@ export class AppComponent implements OnInit {
     this.openedSubject.next(false);
   }
 
-  public NavItemClicked(item) {
+  public NavItemClicked(item: any) {
     console.log(item);
   }
 

@@ -2,8 +2,9 @@
   "name": "@lowcodeunit/lcu-hamburger-menu-side-nav-common",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^7.2.0",
-    "@angular/core": "^7.2.0"
+    "@angular/common": "~9.0.5",
+    "@angular/core": "~9.0.5",
+    "tslib": "^1.10.0"
   },
   "main": "bundles/lowcodeunit-lcu-hamburger-menu-side-nav-common.umd.js",
   "module": "fesm5/lowcodeunit-lcu-hamburger-menu-side-nav-common.js",
@@ -14,8 +15,5 @@
   "fesm2015": "fesm2015/lowcodeunit-lcu-hamburger-menu-side-nav-common.js",
   "typings": "lowcodeunit-lcu-hamburger-menu-side-nav-common.d.ts",
   "metadata": "lowcodeunit-lcu-hamburger-menu-side-nav-common.metadata.json",
-  "sideEffects": false,
-  "dependencies": {
-    "tslib": "^1.9.0"
-  }
+  "sideEffects": false
 }

@@ -1,8 +1,9 @@
-import { EventEmitter } from '@angular/core';
+import { MatSidenav } from '@angular/material/sidenav';
 import { BreakpointObserver } from '@angular/cdk/layout';
-import { Observable, Subject } from 'rxjs';
+import { Observable } from 'rxjs';
+import { EventEmitter } from '@angular/core';
+import { Subject } from 'rxjs';
 import { NavLinkModel } from '../../models/nav-link.model';
-import { MatSidenav } from '@angular/material';
 export declare class SideNavComponent {
     protected breakpointObserver: BreakpointObserver;
     isHandset$: Observable<boolean>;
