@@ -13,12 +13,12 @@
     <div class="button-container" fxLayout="column" fxLayoutAlign="space-between">
         <!-- [ngStyle]="setButtonStyles()" (mouseover)="OnButtonHover()" (mouseleave)="LeaveButtonHover()" -->
       <button class="item-button" mat-menu-item fxLayoutAlign="start center" 
-      [ngStyle]="{'color':FontColor}"
+      [ngStyle]="{'color':FontColor, 'border': ButtonBorder}"
       *ngFor="let item of MenuItems"
         [disabled]=item.Disabled (click)="ButtonClicked(item)" >
         <div [attr.id]="'button-' + item.Label" fxLayoutAlign="start center" >
         <mat-icon class="button-icon" *ngIf="item.Icon">{{ item.Icon }}</mat-icon>
-        <span class="button-title">{{ item.Label }}</span>
+        <span class="button-title" [ngStyle]="{'font-family':FontFamily, 'font-weight': FontWeight, 'padding':ButtonTextPadding, 'font-size':FontSize }">{{ item.Label }}</span>
       </div>
       <!-- <div class="button-border"></div> -->
       </button>
