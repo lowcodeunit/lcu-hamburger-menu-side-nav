@@ -17,7 +17,7 @@
       *ngFor="let item of MenuItems"
         [disabled]=item.Disabled (click)="ButtonClicked(item)" >
         <div [attr.id]="'button-' + item.Label" fxLayoutAlign="start center" >
-        <mat-icon class="button-icon" *ngIf="item.Icon">{{ item.Icon }}</mat-icon>
+        <mat-icon class="button-icon material-icons material-icons-outlined" *ngIf="item.Icon">{{ item.Icon }}</mat-icon>
         <span class="button-title" 
         [ngStyle]="{'font-family': FontFamily, 
                     'font-weight': FontWeight, 
