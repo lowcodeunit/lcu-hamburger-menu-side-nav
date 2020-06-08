@@ -14,5 +14,5 @@ export class NavigationConstants{
         {Label: 'Top Lists', Url:'www', Disabled:'true', Icon: 'sort'},
         {Label: 'Albums', Url:'www', Disabled:'true', Icon: 'photo_library'},
         {Label: 'Friends', Url:'www', Disabled:'true', Icon: 'photo_library'},
-        {Label: 'Profile', Url:'www', Disabled:'true', Icon: 'person'}];
+        {Label: 'Profile', Url:'www', Disabled:'true', Icon: 'account_circle'}];
 }
