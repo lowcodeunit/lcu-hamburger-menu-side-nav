@@ -1,8 +1,8 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('@angular/material/sidenav'), require('@angular/cdk/layout'), require('rxjs'), require('rxjs/operators'), require('@angular/flex-layout'), require('@lcu/common'), require('@angular/material/icon')) :
-    typeof define === 'function' && define.amd ? define('@lowcodeunit/lcu-hamburger-menu-side-nav-common', ['exports', '@angular/core', '@angular/common', '@angular/material/sidenav', '@angular/cdk/layout', 'rxjs', 'rxjs/operators', '@angular/flex-layout', '@lcu/common', '@angular/material/icon'], factory) :
-    (global = global || self, factory((global.lowcodeunit = global.lowcodeunit || {}, global.lowcodeunit['lcu-hamburger-menu-side-nav-common'] = {}), global.ng.core, global.ng.common, global.ng.material.sidenav, global.ng.cdk.layout, global.rxjs, global.rxjs.operators, global.ng['flex-layout'], global.common$1, global.ng.material.icon));
-}(this, (function (exports, core, common, sidenav, layout, rxjs, operators, flexLayout, common$1, icon) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('@angular/material/sidenav'), require('@angular/cdk/layout'), require('rxjs'), require('rxjs/operators'), require('@angular/flex-layout'), require('@lcu/common'), require('@angular/material/icon'), require('@angular/platform-browser/animations')) :
+    typeof define === 'function' && define.amd ? define('@lowcodeunit/lcu-hamburger-menu-side-nav-common', ['exports', '@angular/core', '@angular/common', '@angular/material/sidenav', '@angular/cdk/layout', 'rxjs', 'rxjs/operators', '@angular/flex-layout', '@lcu/common', '@angular/material/icon', '@angular/platform-browser/animations'], factory) :
+    (global = global || self, factory((global.lowcodeunit = global.lowcodeunit || {}, global.lowcodeunit['lcu-hamburger-menu-side-nav-common'] = {}), global.ng.core, global.ng.common, global.ng.material.sidenav, global.ng.cdk.layout, global.rxjs, global.rxjs.operators, global.ng['flex-layout'], global.common$1, global.ng.material.icon, global.ng.platformBrowser.animations));
+}(this, (function (exports, core, common, sidenav, layout, rxjs, operators, flexLayout, common$1, icon, animations) { 'use strict';
 
     /*! *****************************************************************************
     Copyright (c) Microsoft Corporation. All rights reserved.
@@ -406,6 +406,7 @@
             core.NgModule({
                 declarations: [SideNavComponent],
                 imports: [
+                    animations.NoopAnimationsModule,
                     common.CommonModule,
                     flexLayout.FlexLayoutModule,
                     common$1.FathymSharedModule,

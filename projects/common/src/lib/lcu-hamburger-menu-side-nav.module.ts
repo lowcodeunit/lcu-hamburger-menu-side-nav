@@ -5,10 +5,12 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [SideNavComponent],
   imports: [
+    NoopAnimationsModule,
     CommonModule,
     FlexLayoutModule,
     FathymSharedModule,

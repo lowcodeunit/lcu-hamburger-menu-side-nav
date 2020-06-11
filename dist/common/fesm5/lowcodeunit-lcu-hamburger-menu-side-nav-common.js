@@ -8,6 +8,7 @@ import { map } from 'rxjs/operators';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { MatIconModule } from '@angular/material/icon';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
 var SideNavComponent = /** @class */ (function () {
     // public MenuColor: string;
@@ -197,6 +198,7 @@ var LcuHamburgerMenuSideNavModule = /** @class */ (function () {
         NgModule({
             declarations: [SideNavComponent],
             imports: [
+                NoopAnimationsModule,
                 CommonModule,
                 FlexLayoutModule,
                 FathymSharedModule,
