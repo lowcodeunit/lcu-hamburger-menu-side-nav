@@ -110,6 +110,7 @@ export class SideNavComponent {
   public MenuBGColor: string;
   public ButtonBGColor: string;
   public ButtonHover: boolean;
+  public isDisabled: boolean;
 
   @ViewChild('sidenav', { static: false }) public sidenav: MatSidenav;
 
@@ -121,6 +122,7 @@ export class SideNavComponent {
     this.MatContentWidth = "50px";
     this.MatContentHeight = "40px";
     this.MatContainerWidth = "50px";
+    this.isDisabled = true;
   }
 
   public ngOnInit(): void {

@@ -6,6 +6,9 @@
   margin-left: 15px;
   margin-bottom: 2px;
 }
+.no-animation {
+  transition-duration: 0s !important;
+  }
 
 .mat-sidenav-container{
   z-index: 2;
@@ -38,6 +41,10 @@
   background-color:transparent;
   z-index: 10;
   width:100%;
+  border-left: 1px solid rgba(0,0,0,0.2);
+  // border-bottom: 1px solid rgb(0,0,0,0.5);
+  border-right: 1px solid rgba(0,0,0,0.2);
+  box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
 
   .item-button{
     height: 40px;
