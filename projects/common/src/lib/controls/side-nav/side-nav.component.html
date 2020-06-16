@@ -1,11 +1,12 @@
-<mat-sidenav-container  class="mat-sidenav-container" [hasBackdrop]="false" [ngStyle]="{width: MatContainerWidth}">
+<!-- disabled animations on mox request -->
+<mat-sidenav-container  class="mat-sidenav-container" [@.disabled]="isDisabled" [hasBackdrop]="false" [ngStyle]="{width: MatContainerWidth}">
   <mat-sidenav-content class="mat-sidenav-content" [ngStyle]="{width: MatContentWidth, height: MatContentHeight}">
     <button  class="hamburger-menu" mat-icon-button (click)="toggleDrawer()" >
       <mat-icon [inline]="true" (mouseover)="OnHover()" (mouseleave)="LeaveHover()"[ngStyle]="{'color':MenuBGColor}" >menu</mat-icon>
     </button>
   </mat-sidenav-content>
   <!-- Builds the hamburger menu from the items in the constants.ts file-->
-  <mat-sidenav class="side-nav" #sidenav mode="side" (click)="toggleDrawer()">
+  <mat-sidenav class="side-nav" #sidenav mode="side" (click)="toggleDrawer()" >
     <button class="hamburger-menu" mat-icon-button>
       <mat-icon [inline]="true" (mouseover)="OnHover()" (mouseleave)="LeaveHover()"[ngStyle]="{'color':MenuBGColor}">menu</mat-icon>
     </button>

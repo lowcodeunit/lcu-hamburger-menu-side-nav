@@ -73,6 +73,7 @@ export declare class SideNavComponent {
     MenuBGColor: string;
     ButtonBGColor: string;
     ButtonHover: boolean;
+    isDisabled: boolean;
     sidenav: MatSidenav;
     constructor(breakpointObserver: BreakpointObserver);
     ngOnInit(): void;

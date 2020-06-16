@@ -8,13 +8,13 @@ import { AppComponent } from './app.component';
 import { FathymSharedModule, MaterialModule } from '@lcu/common';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav'
-import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 @NgModule({
   declarations: [
     AppComponent,
   ],
   imports: [
-    NoopAnimationsModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     FlexLayoutModule,
     FathymSharedModule,
