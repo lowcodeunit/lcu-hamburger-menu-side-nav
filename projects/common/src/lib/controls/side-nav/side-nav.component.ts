@@ -215,7 +215,7 @@ export class SideNavComponent {
       this.ButtonBorder = "none";
     }
     if(!this.ButtonTextPadding){
-      this.ButtonTextPadding = "0px 0px 0px 30px";
+      this.ButtonTextPadding = "0px 0px 0px 29px";
     }
 
     if (!this.MenuColor) {
