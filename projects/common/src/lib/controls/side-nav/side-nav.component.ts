@@ -37,6 +37,25 @@ export class SideNavComponent {
    */
   @Input('opened-subject')
   public openedSubject: Subject<boolean>
+
+  /**
+   * The font family for the button text
+   */
+  @Input('font-family')
+  public FontFamily: string;
+
+  /**
+   * The font weight of the button text
+   */
+  @Input('font-weight')
+  public FontWeight: string;
+
+  /**
+   * The Font size of the button text
+   */
+  @Input('font-size')
+  public FontSize: string;
+
 /**
  * The color of the menu Icon
  */
@@ -63,6 +82,11 @@ export class SideNavComponent {
   @Input('mat-container-width')
   public MatContainerWidth: string;
 /**
+ * The Border for the button in the dropdown menu
+ */
+  @Input('button-border')
+  public ButtonBorder: string;
+/**
  * the background color of the buttons in menu
  */
   @Input('button-background-color')
@@ -73,6 +97,11 @@ export class SideNavComponent {
   @Input('button-background-color-hover')
   public ButtonBackgroundColorHover:string;
 /**
+ * The padding for the text in the button
+ */
+  @Input('button-text-padding')
+  public ButtonTextPadding: string;
+/**
  * The font color of both the icons and the text in the menu
  */
   @Input('font-color')
@@ -81,6 +110,7 @@ export class SideNavComponent {
   public MenuBGColor: string;
   public ButtonBGColor: string;
   public ButtonHover: boolean;
+  public isDisabled: boolean;
 
   @ViewChild('sidenav', { static: false }) public sidenav: MatSidenav;
 
@@ -92,6 +122,7 @@ export class SideNavComponent {
     this.MatContentWidth = "50px";
     this.MatContentHeight = "40px";
     this.MatContainerWidth = "50px";
+    this.isDisabled = true;
   }
 
   public ngOnInit(): void {
@@ -162,12 +193,29 @@ export class SideNavComponent {
     if(!this.FontColor){
       this.FontColor = 'black';
     }
+    if(!this.FontFamily){
+      this.FontFamily = "'Montserrat', sans-serif";
+    }
+    if(!this.FontWeight){
+      this.FontWeight = "bold";
+    }
+
+    if(!this.FontSize){
+      this.FontSize = "20px";
+    }
 
     if(!this.ButtonBackgroundColorHover){
       this.ButtonBackgroundColorHover = "grey"//#96957
     }
     if(!this.ButtonBackgroundColor){
       this.ButtonBackgroundColor = "white"//#96957
+    }
+
+    if(!this.ButtonBorder){
+      this.ButtonBorder = "none";
+    }
+    if(!this.ButtonTextPadding){
+      this.ButtonTextPadding = "0px 0px 0px 29px";
     }
 
     if (!this.MenuColor) {

@@ -4,7 +4,11 @@
   outline: none;
   font-size: 30px;
   margin-left: 15px;
+  margin-bottom: 2px;
 }
+.no-animation {
+  transition-duration: 0s !important;
+  }
 
 .mat-sidenav-container{
   z-index: 2;
@@ -19,6 +23,7 @@
   // height: 95vh;
   // width:210px;
 }
+
 .mat-sidenav-content{
   background-color:transparent;
   overflow: hidden;
@@ -29,31 +34,37 @@
   background-color: transparent;
   border-right: transparent;
   overflow:hidden;
+ 
 }
 .button-container{
   // height: 81.5%; //change to match the length of the legend
   background-color:transparent;
   z-index: 10;
   width:100%;
+  border-left: 1px solid rgba(0,0,0,0.2);
+  // border-bottom: 1px solid rgb(0,0,0,0.5);
+  border-right: 1px solid rgba(0,0,0,0.2);
+  box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
 
   .item-button{
     height: 40px;
     width: 100%;
     font-size: 20px;
-    border-color: #eaeaea;
-    border-width: 1px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+    outline: none;
+    // border-color: #eaeaea;
+    // border-width: 1px;
+    // border-top: none;
+    // border-left: none;
+    // border-right: none;
     background-color: white;
 
     .button-icon{
       padding-left: 17px;
     }
-    .button-title{
-      font-family: 'Montserrat', sans-serif;
-      padding-left: 42px;
-    }
+    // .button-title{
+      // font-family: 'Montserrat', sans-serif;
+      // padding-left: 42px;
+    // }
 
     &:last-child { border-bottom: none; }
     &:hover{

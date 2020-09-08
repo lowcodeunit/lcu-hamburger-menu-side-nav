@@ -19,6 +19,18 @@ export declare class SideNavComponent {
      */
     openedSubject: Subject<boolean>;
     /**
+     * The font family for the button text
+     */
+    FontFamily: string;
+    /**
+     * The font weight of the button text
+     */
+    FontWeight: string;
+    /**
+     * The Font size of the button text
+     */
+    FontSize: string;
+    /**
      * The color of the menu Icon
      */
     MenuColor: string;
@@ -39,6 +51,10 @@ export declare class SideNavComponent {
      */
     MatContainerWidth: string;
     /**
+     * The Border for the button in the dropdown menu
+     */
+    ButtonBorder: string;
+    /**
      * the background color of the buttons in menu
      */
     ButtonBackgroundColor: string;
@@ -47,12 +63,17 @@ export declare class SideNavComponent {
      */
     ButtonBackgroundColorHover: string;
     /**
+     * The padding for the text in the button
+     */
+    ButtonTextPadding: string;
+    /**
      * The font color of both the icons and the text in the menu
      */
     FontColor: string;
     MenuBGColor: string;
     ButtonBGColor: string;
     ButtonHover: boolean;
+    isDisabled: boolean;
     sidenav: MatSidenav;
     constructor(breakpointObserver: BreakpointObserver);
     ngOnInit(): void;

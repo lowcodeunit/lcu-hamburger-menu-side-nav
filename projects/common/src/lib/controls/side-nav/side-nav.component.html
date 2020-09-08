@@ -1,24 +1,35 @@
-<mat-sidenav-container  class="mat-sidenav-container" [hasBackdrop]="false" [ngStyle]="{width: MatContainerWidth}">
+<!-- disabled animations on mox request -->
+<mat-sidenav-container  class="mat-sidenav-container" [@.disabled]="isDisabled" [hasBackdrop]="false" [ngStyle]="{width: MatContainerWidth}">
   <mat-sidenav-content class="mat-sidenav-content" [ngStyle]="{width: MatContentWidth, height: MatContentHeight}">
     <button  class="hamburger-menu" mat-icon-button (click)="toggleDrawer()" >
       <mat-icon [inline]="true" (mouseover)="OnHover()" (mouseleave)="LeaveHover()"[ngStyle]="{'color':MenuBGColor}" >menu</mat-icon>
     </button>
   </mat-sidenav-content>
   <!-- Builds the hamburger menu from the items in the constants.ts file-->
-  <mat-sidenav class="side-nav" #sidenav mode="side" (click)="toggleDrawer()">
+  <mat-sidenav class="side-nav" #sidenav mode="side" (click)="toggleDrawer()" >
     <button class="hamburger-menu" mat-icon-button>
       <mat-icon [inline]="true" (mouseover)="OnHover()" (mouseleave)="LeaveHover()"[ngStyle]="{'color':MenuBGColor}">menu</mat-icon>
     </button>
     <!--  -->
     <div class="button-container" fxLayout="column" fxLayoutAlign="space-between">
         <!-- [ngStyle]="setButtonStyles()" (mouseover)="OnButtonHover()" (mouseleave)="LeaveButtonHover()" -->
-      <button class="item-button" mat-menu-item fxLayoutAlign="start center" 
-      [ngStyle]="{'color':FontColor}"
-      *ngFor="let item of MenuItems"
+      <button class="item-button" mat-menu-item 
+        fxLayoutAlign="start center" 
+        [ngStyle]="{'color':FontColor, 'border': ButtonBorder}"
+        *ngFor="let item of MenuItems"
         [disabled]=item.Disabled (click)="ButtonClicked(item)" >
         <div [attr.id]="'button-' + item.Label" fxLayoutAlign="start center" >
-        <mat-icon class="button-icon" *ngIf="item.Icon">{{ item.Icon }}</mat-icon>
-        <span class="button-title">{{ item.Label }}</span>
+        <mat-icon 
+          class="button-icon material-icons material-icons-outlined" 
+          *ngIf="item.Icon"
+          [ngStyle]="{'color':FontColor}">
+          {{ item.Icon }}
+        </mat-icon>
+        <span class="button-title" 
+        [ngStyle]="{'font-family': FontFamily, 
+                    'font-weight': FontWeight, 
+                    'padding': ButtonTextPadding, 
+                    'font-size': FontSize }">{{ item.Label }}</span>
       </div>
       <!-- <div class="button-border"></div> -->
       </button>
